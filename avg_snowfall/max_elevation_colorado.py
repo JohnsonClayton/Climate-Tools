@@ -30,7 +30,7 @@ for i in range(0, len(jdata['results'])):
 print("Malcontents: {}".format(count))
 
 co_sites.sort(key=lambda x: x['mindate'])
-co_sites.sort(key=lambda x: x['elevation'], reverse=True)
+co_sites.sort(key=lambda x: (int(x['maxdate'][:4]) - int(x['mindate'][:4])), reverse=True)
 
 for site in co_sites:
   print("Site: {}\n\tElevation: {}\n\tMin Date: {}\n\tMax Date: {}".format(site['name'], site['elevation'], site['mindate'], site['maxdate']))
