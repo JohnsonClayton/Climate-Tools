@@ -142,6 +142,7 @@ def graph_data(wyears):
   fig, ax1 = plt.subplots()
   
   color = 'tab:blue'
+  ax1.set_xlabel('Water Years')
   ax1.set_ylabel('Snowfall (mm)', color=color)
   ax1.plot(years, snowfall_data, color=color)
   ax1.tick_params(axis='y', labelcolor=color)
@@ -159,19 +160,17 @@ def graph_data(wyears):
   ax2 = ax1.twinx() # Creates the second axis that shares the domain
 
   color = 'tab:green'
-  ax2.set_xlabel('Water Years')
   ax2.set_ylabel('Precipitation (mm)', color=color)
   ax2.plot(years, precip_data, color=color)
   ax2.tick_params(axis='y', labelcolor=color)
 
-  # Graphing Snowfall trendline
+  # Graphing Precipitation trendline
   z = np.polyfit(trend_years, trend_precip_data, 1)
   p = np.poly1d(z)
   print('precip trend is {}'.format(p))
   trend_data_points = []
   for tyear in trend_years:
     trend_data_points.append(p(tyear))
-  print('snowfall trend is {}'.format(p))
   plt.plot(trend_years, trend_data_points, 'g--')
 
   plt.title('Snowfall and Precipitation in Crested Butte from 1909 to 2018', fontsize=17)
