@@ -1,0 +1,2342 @@
+metadata
+results
+Malcontents: 1
+1943
+1953
+10
+Site: MONTROSE NUMBER 2, CO US
+	Elevation: 1764.5
+	Min Date: 1885-01-01
+	Max Date: 2015-11-01
+Site: GUNNISON 3 SW, CO US
+	Elevation: 2323.2
+	Min Date: 1888-07-01
+	Max Date: 2015-11-01
+Site: DEL NORTE 3 ENE, CO US
+	Elevation: 2391.2
+	Min Date: 1893-01-01
+	Max Date: 2015-11-01
+Site: CRESTED BUTTE, CO US
+	Elevation: 2702.7
+	Min Date: 1894-06-01
+	Max Date: 2015-11-01
+Site: GRAND JUNCTION WALKER FIELD, CO US
+	Elevation: 1480.7
+	Min Date: 1899-01-01
+	Max Date: 2015-11-01
+Site: SAGUACHE, CO US
+	Elevation: 2347.3
+	Min Date: 1894-04-01
+	Max Date: 2009-04-01
+Site: SALIDA, CO US
+	Elevation: 2182.4
+	Min Date: 1897-10-01
+	Max Date: 2010-09-01
+Site: TELLURIDE 4 WNW, CO US
+	Elevation: 2635.3
+	Min Date: 1904-05-01
+	Max Date: 2015-11-01
+Site: SILVERTON, CO US
+	Elevation: 2830.1
+	Min Date: 1906-01-01
+	Max Date: 2015-11-01
+Site: RICO, CO US
+	Elevation: 2682.2
+	Min Date: 1893-01-01
+	Max Date: 2001-08-01
+Site: COLLBRAN, CO US
+	Elevation: 1822.7
+	Min Date: 1893-01-01
+	Max Date: 1999-12-01
+Site: LAKE CITY, CO US
+	Elevation: 2641.7
+	Min Date: 1905-05-01
+	Max Date: 2010-05-01
+Site: CORTEZ, CO US
+	Elevation: 1879.7
+	Min Date: 1911-04-01
+	Max Date: 2015-11-01
+Site: VALLECITO DAM, CO US
+	Elevation: 2329.9
+	Min Date: 1917-04-01
+	Max Date: 2015-11-01
+Site: DURANGO, CO US
+	Elevation: 2011.7
+	Min Date: 1894-10-01
+	Max Date: 1991-03-01
+Site: CEDAREDGE, CO US
+	Elevation: 1903.2
+	Min Date: 1898-01-01
+	Max Date: 1994-06-01
+Site: MESA VERDE NATIONAL PARK, CO US
+	Elevation: 2176.9
+	Min Date: 1922-02-01
+	Max Date: 2015-11-01
+Site: EADS, CO US
+	Elevation: 1283.8
+	Min Date: 1924-01-01
+	Max Date: 2015-11-01
+Site: PALISADE, CO US
+	Elevation: 1448.1
+	Min Date: 1929-01-01
+	Max Date: 2015-11-01
+Site: NORTHDALE, CO US
+	Elevation: 2036.4
+	Min Date: 1930-06-01
+	Max Date: 2015-11-01
+Site: BOULDER, CO US
+	Elevation: 1671.5
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: BUENA VISTA 2 S, CO US
+	Elevation: 2424.4
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: BURLINGTON, CO US
+	Elevation: 1268.6
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: BYERS 5 ENE, CO US
+	Elevation: 1554.8
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: CANON CITY, CO US
+	Elevation: 1639.2
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: CHEESMAN, CO US
+	Elevation: 2097
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: CHEYENNE WELLS, CO US
+	Elevation: 1309.1
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: DILLON 1 E, CO US
+	Elevation: 2763
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: FORT COLLINS, CO US
+	Elevation: 1525.2
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: FORT LEWIS, CO US
+	Elevation: 2320.7
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: FORT MORGAN, CO US
+	Elevation: 1333.8
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: GLENWOOD SPGS NUMBER 2, CO US
+	Elevation: 1796.8
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: HASWELL, CO US
+	Elevation: 1378.3
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: HERMIT 8 SE, CO US
+	Elevation: 2727.7
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: HOLLY, CO US
+	Elevation: 1036.6
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: JULESBURG, CO US
+	Elevation: 1059.8
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: KASSLER, CO US
+	Elevation: 1702.9
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: LAMAR, CO US
+	Elevation: 1105.5
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: LAS ANIMAS, CO US
+	Elevation: 1185.7
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: LEROY 5 WSW, CO US
+	Elevation: 1361.5
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: MANASSA, CO US
+	Elevation: 2345.4
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: ORDWAY 1 ENE, CO US
+	Elevation: 1314.3
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: ROCKY FORD 2 SE, CO US
+	Elevation: 1271
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: SHOSHONE, CO US
+	Elevation: 1826.4
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: STEAMBOAT SPRINGS, CO US
+	Elevation: 2092.8
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: TRINIDAD, CO US
+	Elevation: 1837.9
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: WATERDALE, CO US
+	Elevation: 1594.1
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: WRAY, CO US
+	Elevation: 1083
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: YUMA, CO US
+	Elevation: 1260
+	Min Date: 1931-01-01
+	Max Date: 2015-11-01
+Site: HOLYOKE, CO US
+	Elevation: 1152.1
+	Min Date: 1931-02-01
+	Max Date: 2015-11-01
+Site: HAYDEN, CO US
+	Elevation: 1971.1
+	Min Date: 1931-05-01
+	Max Date: 2015-11-01
+Site: WESTCLIFFE, CO US
+	Elevation: 2399.7
+	Min Date: 1932-02-01
+	Max Date: 2015-11-01
+Site: RUSH 1 N, CO US
+	Elevation: 1845.3
+	Min Date: 1931-01-01
+	Max Date: 2013-12-01
+Site: ASPEN, CO US
+	Elevation: 2416.5
+	Min Date: 1899-08-01
+	Max Date: 1980-07-25
+Site: WALSENBURG 1 NW, CO US
+	Elevation: 1917.8
+	Min Date: 1934-04-01
+	Max Date: 2015-11-01
+Site: FRUITA, CO US
+	Elevation: 1371
+	Min Date: 1931-01-01
+	Max Date: 2011-12-01
+Site: STERLING, CO US
+	Elevation: 1211.3
+	Min Date: 1931-01-01
+	Max Date: 2010-07-01
+Site: STRATTON, CO US
+	Elevation: 1340.8
+	Min Date: 1934-06-01
+	Max Date: 2012-12-01
+Site: TRINIDAD PERRY STOKES AIRPORT, CO US
+	Elevation: 1749.9
+	Min Date: 1937-02-01
+	Max Date: 2015-11-01
+Site: NORWOOD, CO US
+	Elevation: 2139.7
+	Min Date: 1931-07-01
+	Max Date: 2008-08-01
+Site: WALDEN, CO US
+	Elevation: 2455.5
+	Min Date: 1938-02-01
+	Max Date: 2015-11-01
+Site: BAILEY, CO US
+	Elevation: 2362.8
+	Min Date: 1938-03-01
+	Max Date: 2015-11-01
+Site: RIFLE, CO US
+	Elevation: 1656.6
+	Min Date: 1931-01-01
+	Max Date: 2007-11-01
+Site: MONTE VISTA 2 W, CO US
+	Elevation: 2344.5
+	Min Date: 1939-03-01
+	Max Date: 2015-11-01
+Site: PAGOSA SPRINGS 1 SE, CO US
+	Elevation: 2172.9
+	Min Date: 1939-04-01
+	Max Date: 2015-11-01
+Site: GREEN MOUNTAIN DAM, CO US
+	Elevation: 2359.2
+	Min Date: 1939-07-01
+	Max Date: 2015-11-01
+Site: KIT CARSON, CO US
+	Elevation: 1311.2
+	Min Date: 1939-09-01
+	Max Date: 2015-11-01
+Site: GRAND LAKE 1 NW, CO US
+	Elevation: 2657.9
+	Min Date: 1939-10-01
+	Max Date: 2015-11-01
+Site: SEDGWICK, CO US
+	Elevation: 1092.4
+	Min Date: 1931-01-01
+	Max Date: 2006-12-01
+Site: COLORADO NATIONAL MONUMENT, CO US
+	Elevation: 1762
+	Min Date: 1940-03-01
+	Max Date: 2015-11-01
+Site: GENOA, CO US
+	Elevation: 1704.7
+	Min Date: 1940-08-01
+	Max Date: 2015-11-01
+Site: MEEKER, CO US
+	Elevation: 1898.6
+	Min Date: 1940-11-01
+	Max Date: 2015-11-01
+Site: TAYLOR PARK, CO US
+	Elevation: 2797.8
+	Min Date: 1940-11-01
+	Max Date: 2015-11-01
+Site: IDALIA, CO US
+	Elevation: 1208.5
+	Min Date: 1941-07-01
+	Max Date: 2015-11-01
+Site: JOHN MARTIN DAM, CO US
+	Elevation: 1162.5
+	Min Date: 1941-08-01
+	Max Date: 2015-11-01
+Site: KARVAL, CO US
+	Elevation: 1546.9
+	Min Date: 1941-08-01
+	Max Date: 2015-11-01
+Site: YAMPA, CO US
+	Elevation: 2394.8
+	Min Date: 1941-10-01
+	Max Date: 2015-11-01
+Site: LONGMONT 2 ESE, CO US
+	Elevation: 1508.8
+	Min Date: 1931-01-01
+	Max Date: 2004-11-01
+Site: WINTER PARK, CO US
+	Elevation: 2772.2
+	Min Date: 1942-11-01
+	Max Date: 2015-11-01
+Site: TROUT LAKE, CO US
+	Elevation: 2956.3
+	Min Date: 1914-04-01
+	Max Date: 1986-03-01
+Site: AMES, CO US
+	Elevation: 2651.8
+	Min Date: 1914-12-01
+	Max Date: 1986-03-01
+Site: SPICER, CO US
+	Elevation: 2555.7
+	Min Date: 1931-01-01
+	Max Date: 2003-01-01
+Site: FOWLER 1 SE, CO US
+	Elevation: 1319.8
+	Min Date: 1943-09-01
+	Max Date: 2014-12-01
+Site: BLANCA 4 NW, CO US
+	Elevation: 2349.7
+	Min Date: 1940-07-01
+	Max Date: 2010-03-01
+Site: ALLENSPARK 2 SE, CO US
+	Elevation: 2512.5
+	Min Date: 1944-11-01
+	Max Date: 2014-01-01
+Site: KREMMLING, CO US
+	Elevation: 2273.8
+	Min Date: 1945-06-01
+	Max Date: 2015-11-01
+Site: IDAHO SPRINGS, CO US
+	Elevation: 2302.8
+	Min Date: 1905-02-01
+	Max Date: 1974-06-01
+Site: LA JUNTA MUNICIPAL AIRPORT, CO US
+	Elevation: 1278.3
+	Min Date: 1946-01-01
+	Max Date: 2015-11-01
+Site: DELTA, CO US
+	Elevation: 1502.7
+	Min Date: 1931-01-01
+	Max Date: 1999-12-01
+Site: CENTER 4 SSW, CO US
+	Elevation: 2338.7
+	Min Date: 1941-07-01
+	Max Date: 2009-09-01
+Site: SUGARLOAF RESERVOIR, CO US
+	Elevation: 2968.1
+	Min Date: 1947-05-01
+	Max Date: 2015-11-01
+Site: ALTENBERN, CO US
+	Elevation: 1718.2
+	Min Date: 1947-07-01
+	Max Date: 2015-11-01
+Site: BRECKENRIDGE, CO US
+	Elevation: 2925.5
+	Min Date: 1947-07-01
+	Max Date: 2015-11-01
+Site: MANCOS 1 SW, CO US
+	Elevation: 2102.2
+	Min Date: 1947-07-01
+	Max Date: 2015-11-01
+Site: GATEWAY 1 ENE, CO US
+	Elevation: 1423.7
+	Min Date: 1947-09-01
+	Max Date: 2015-11-01
+Site: COCHETOPA CREEK, CO US
+	Elevation: 2440.2
+	Min Date: 1947-11-01
+	Max Date: 2015-11-01
+Site: PARKER 6 E, CO US
+	Elevation: 1923.3
+	Min Date: 1931-01-01
+	Max Date: 1998-02-01
+Site: ALAMOSA SAN LUIS VALLEY REGIONAL AIRPORT, CO US
+	Elevation: 2296.1
+	Min Date: 1948-01-01
+	Max Date: 2015-11-01
+Site: DENVER STAPLETON, CO US
+	Elevation: 1610.6
+	Min Date: 1948-01-01
+	Max Date: 2015-11-01
+Site: GRAND LAKE 6 SSW, CO US
+	Elevation: 2526.2
+	Min Date: 1948-05-01
+	Max Date: 2015-11-01
+Site: COLORADO SPRINGS MUNICIPAL AIRPORT, CO US
+	Elevation: 1884
+	Min Date: 1948-07-01
+	Max Date: 2015-11-01
+Site: GEORGETOWN, CO US
+	Elevation: 2596.9
+	Min Date: 1948-07-01
+	Max Date: 2015-11-01
+Site: AKRON 4 E, CO US
+	Elevation: 1384.4
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: ARAPAHOE, CO US
+	Elevation: 1225.3
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: CASTLE ROCK, CO US
+	Elevation: 1885.2
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: CHERAW 1 N, CO US
+	Elevation: 1264
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: HUGO 1 NW, CO US
+	Elevation: 1531.6
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: JOES, CO US
+	Elevation: 1303
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: KIM 15 NNE, CO US
+	Elevation: 1581.9
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: LAKE GEORGE 8 SW, CO US
+	Elevation: 2606
+	Min Date: 1948-08-01
+	Max Date: 2015-11-01
+Site: BOULDER 2, CO US
+	Elevation: 1654.1
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: ECKLEY, CO US
+	Elevation: 1204.9
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: GRANADA, CO US
+	Elevation: 1063.4
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: GREENLAND 9 SE, CO US
+	Elevation: 2291.5
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: GREENLAND 6 NE, CO US
+	Elevation: 2103.1
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: HOYT, CO US
+	Elevation: 1474.6
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: LONGMONT 6 NW, CO US
+	Elevation: 1569.7
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: MANITOU SPRINGS, CO US
+	Elevation: 2029.4
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: NUNN, CO US
+	Elevation: 1583.7
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: SIMLA, CO US
+	Elevation: 1823.9
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: TERCIO 4 NW, CO US
+	Elevation: 2512.8
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: WHITE ROCK, CO US
+	Elevation: 1437.1
+	Min Date: 1948-08-01
+	Max Date: 2014-01-01
+Site: FLAGLER 1 S, CO US
+	Elevation: 1499.9
+	Min Date: 1949-05-01
+	Max Date: 2015-11-01
+Site: SEIBERT, CO US
+	Elevation: 1434.4
+	Min Date: 1949-05-01
+	Max Date: 2015-11-01
+Site: BONNY DAM 2 NE, CO US
+	Elevation: 1132.9
+	Min Date: 1949-06-01
+	Max Date: 2015-11-01
+Site: CLIMAX, CO US
+	Elevation: 3457.7
+	Min Date: 1949-08-01
+	Max Date: 2015-11-01
+Site: TWIN LAKES RESERVOIR, CO US
+	Elevation: 2815.1
+	Min Date: 1949-08-01
+	Max Date: 2015-11-01
+Site: SILVER LAKE, CO US
+	Elevation: 3157.7
+	Min Date: 1931-01-01
+	Max Date: 1996-09-01
+Site: WOODLAND PARK 8 NNW, CO US
+	Elevation: 2365.2
+	Min Date: 1948-08-01
+	Max Date: 2013-12-22
+Site: RANGELY 1 E, CO US
+	Elevation: 1608.4
+	Min Date: 1950-07-01
+	Max Date: 2015-11-01
+Site: GREAT SAND DUNES NATIONAL PARK AND PRESERVE, CO US
+	Elevation: 2494.2
+	Min Date: 1950-09-01
+	Max Date: 2015-11-01
+Site: CRIPPLE CREEK, CO US
+	Elevation: 2910.8
+	Min Date: 1939-01-01
+	Max Date: 2003-01-01
+Site: WALSH 1 W, CO US
+	Elevation: 1212.5
+	Min Date: 1951-04-01
+	Max Date: 2015-11-01
+Site: CIMARRON, CO US
+	Elevation: 2137
+	Min Date: 1951-10-01
+	Max Date: 2015-11-01
+Site: ESTES PARK, CO US
+	Elevation: 2279.9
+	Min Date: 1931-01-01
+	Max Date: 1994-05-31
+Site: OURAY, CO US
+	Elevation: 2389.6
+	Min Date: 1943-09-01
+	Max Date: 2006-09-01
+Site: BRIGGSDALE, CO US
+	Elevation: 1481.9
+	Min Date: 1948-08-01
+	Max Date: 2011-12-01
+Site: IGNACIO 1 N, CO US
+	Elevation: 1969
+	Min Date: 1931-01-01
+	Max Date: 1993-07-01
+Site: AKRON WASHINGTON CO AIRPORT, CO US
+	Elevation: 1421.3
+	Min Date: 1937-03-01
+	Max Date: 1999-03-01
+Site: PLACERVILLE, CO US
+	Elevation: 2301.2
+	Min Date: 1947-07-01
+	Max Date: 2008-06-01
+Site: PUEBLO MEMORIAL AIRPORT, CO US
+	Elevation: 1438.7
+	Min Date: 1954-01-01
+	Max Date: 2015-11-01
+Site: CAMPO 7 S, CO US
+	Elevation: 1251.2
+	Min Date: 1954-05-01
+	Max Date: 2015-11-01
+Site: LAKE MORAINE, CO US
+	Elevation: 3128.8
+	Min Date: 1931-01-01
+	Max Date: 1991-10-01
+Site: HAMILTON, CO US
+	Elevation: 1898.9
+	Min Date: 1947-07-01
+	Max Date: 2007-04-01
+Site: TACONY 13 SE, CO US
+	Elevation: 1488
+	Min Date: 1955-10-01
+	Max Date: 2015-11-01
+Site: LIMON ATWATER RANCH, CO US
+	Elevation: 1698.3
+	Min Date: 1956-01-01
+	Max Date: 2015-11-01
+Site: EASTONVILLE 2 NNW, CO US
+	Elevation: 2197.6
+	Min Date: 1956-04-01
+	Max Date: 2015-11-01
+Site: SEDALIA 4 SSE, CO US
+	Elevation: 1830.9
+	Min Date: 1956-06-01
+	Max Date: 2015-11-01
+Site: GREELEY, CO US
+	Elevation: 1417.9
+	Min Date: 1931-01-01
+	Max Date: 1989-01-01
+Site: STONINGTON, CO US
+	Elevation: 1158.8
+	Min Date: 1941-01-01
+	Max Date: 1999-07-01
+Site: PYRAMID, CO US
+	Elevation: 2441.1
+	Min Date: 1947-07-01
+	Max Date: 2005-06-01
+Site: SAN LUIS, CO US
+	Elevation: 2421
+	Min Date: 1948-08-01
+	Max Date: 2006-09-01
+Site: PLEASANT VIEW, CO US
+	Elevation: 2090.9
+	Min Date: 1950-08-01
+	Max Date: 2008-04-01
+Site: CHERRY CREEK DAM, CO US
+	Elevation: 1721.2
+	Min Date: 1951-11-01
+	Max Date: 2009-03-01
+Site: PAONIA 1 SW, CO US
+	Elevation: 1701.1
+	Min Date: 1957-05-01
+	Max Date: 2015-11-01
+Site: FLEMING, CO US
+	Elevation: 1292.4
+	Min Date: 1941-07-01
+	Max Date: 1998-10-01
+Site: DOLORES, CO US
+	Elevation: 2118.4
+	Min Date: 1947-07-01
+	Max Date: 2004-11-01
+Site: NEW RAYMER, CO US
+	Elevation: 1457.9
+	Min Date: 1948-08-01
+	Max Date: 2005-01-01
+Site: MAYBELL, CO US
+	Elevation: 1811.7
+	Min Date: 1958-06-01
+	Max Date: 2015-11-01
+Site: SARGENTS, CO US
+	Elevation: 2578.6
+	Min Date: 1958-08-01
+	Max Date: 2015-11-01
+Site: SEDGWICK 5 S, CO US
+	Elevation: 1218
+	Min Date: 1958-11-01
+	Max Date: 2015-11-01
+Site: GUFFEY 10 SE, CO US
+	Elevation: 2619.8
+	Min Date: 1950-07-01
+	Max Date: 2006-12-01
+Site: MORRISON 1 SW, CO US
+	Elevation: 1780
+	Min Date: 1958-01-01
+	Max Date: 2014-01-01
+Site: RUXTON PARK, CO US
+	Elevation: 2761.5
+	Min Date: 1959-09-01
+	Max Date: 2015-11-01
+Site: PITKIN, CO US
+	Elevation: 2803.9
+	Min Date: 1931-01-01
+	Max Date: 1986-06-01
+Site: PALISADE LAKES 6 SSE, CO US
+	Elevation: 2467.1
+	Min Date: 1917-06-01
+	Max Date: 1971-06-01
+Site: SPRINGFIELD, CO US
+	Elevation: 1344.5
+	Min Date: 1931-01-01
+	Max Date: 1985-07-01
+Site: FOUNTAIN, CO US
+	Elevation: 1694.7
+	Min Date: 1943-09-01
+	Max Date: 1997-10-26
+Site: MARVINE, CO US
+	Elevation: 2194.6
+	Min Date: 1947-07-01
+	Max Date: 2001-10-01
+Site: URAVAN, CO US
+	Elevation: 1530.4
+	Min Date: 1961-01-01
+	Max Date: 2015-11-01
+Site: ANTERO RESERVOIR, CO US
+	Elevation: 2724.6
+	Min Date: 1961-06-01
+	Max Date: 2015-11-01
+Site: EVERGREEN, CO US
+	Elevation: 2129
+	Min Date: 1961-06-01
+	Max Date: 2015-11-01
+Site: DEER TRAIL 3 NW, CO US
+	Elevation: 1554.5
+	Min Date: 1948-08-01
+	Max Date: 2001-08-01
+Site: GRAND JUNCTION 6 ESE, CO US
+	Elevation: 1450.8
+	Min Date: 1962-03-01
+	Max Date: 2015-11-01
+Site: LAKEWOOD, CO US
+	Elevation: 1719.1
+	Min Date: 1962-07-01
+	Max Date: 2015-11-01
+Site: PAONIA 1 SW, CO US
+	Elevation: 1701.1
+	Min Date: 1905-01-01
+	Max Date: 1957-04-01
+Site: EAGLE CO AIRPORT, CO US
+	Elevation: 1980.3
+	Min Date: 1942-05-01
+	Max Date: 1994-07-01
+Site: BONHAM RESERVOIR, CO US
+	Elevation: 3002.9
+	Min Date: 1963-07-01
+	Max Date: 2015-11-01
+Site: GRANT, CO US
+	Elevation: 2644.1
+	Min Date: 1963-09-01
+	Max Date: 2015-11-01
+Site: LEADVILLE, CO US
+	Elevation: 3030
+	Min Date: 1931-01-01
+	Max Date: 1982-08-01
+Site: KAUFFMAN 4 SSE, CO US
+	Elevation: 1600.2
+	Min Date: 1936-09-01
+	Max Date: 1987-02-01
+Site: NORTH LAKE, CO US
+	Elevation: 2684.1
+	Min Date: 1931-01-01
+	Max Date: 1980-12-01
+Site: WINDSOR, CO US
+	Elevation: 1457.2
+	Min Date: 1941-07-01
+	Max Date: 1990-03-01
+Site: RED FEATHER LAKES 2 SE, CO US
+	Elevation: 2488.7
+	Min Date: 1941-09-01
+	Max Date: 1990-06-01
+Site: DINOSAUR NATIONAL MONUMNT, CO US
+	Elevation: 1816.6
+	Min Date: 1965-06-01
+	Max Date: 2014-12-01
+Site: FORDER 8 S, CO US
+	Elevation: 1457.9
+	Min Date: 1932-01-01
+	Max Date: 1980-07-01
+Site: OTIS 11 NE, CO US
+	Elevation: 1274.1
+	Min Date: 1941-08-01
+	Max Date: 1989-01-01
+Site: RYE, CO US
+	Elevation: 2087.9
+	Min Date: 1944-10-01
+	Max Date: 1992-01-01
+Site: SHAW 2 E, CO US
+	Elevation: 1578.9
+	Min Date: 1948-08-01
+	Max Date: 1996-12-31
+Site: GREELEY UNC, CO US
+	Elevation: 1437.1
+	Min Date: 1967-03-01
+	Max Date: 2015-11-01
+Site: BLUE MESA LAKE, CO US
+	Elevation: 2306.7
+	Min Date: 1967-11-01
+	Max Date: 2015-11-01
+Site: CABIN CREEK, CO US
+	Elevation: 3054.1
+	Min Date: 1968-01-01
+	Max Date: 2015-11-01
+Site: SAPINERO 8 E, CO US
+	Elevation: 2354.9
+	Min Date: 1919-01-01
+	Max Date: 1965-12-01
+Site: TROY 1 SE, CO US
+	Elevation: 1709.9
+	Min Date: 1941-08-01
+	Max Date: 1987-09-01
+Site: SPRINGFIELD 7 WSW, CO US
+	Elevation: 1408.8
+	Min Date: 1956-09-01
+	Max Date: 2002-09-27
+Site: PALMER LAKE, CO US
+	Elevation: 2195.2
+	Min Date: 1965-07-01
+	Max Date: 2011-12-01
+Site: FORT LUPTON 2 SE, CO US
+	Elevation: 1531
+	Min Date: 1931-01-01
+	Max Date: 1976-03-01
+Site: HAWTHORNE, CO US
+	Elevation: 1805.9
+	Min Date: 1931-01-01
+	Max Date: 1976-01-01
+Site: LITTLE HILLS, CO US
+	Elevation: 1871.5
+	Min Date: 1946-08-01
+	Max Date: 1991-09-01
+Site: BRANDON, CO US
+	Elevation: 1196.3
+	Min Date: 1955-03-01
+	Max Date: 1999-12-01
+Site: WOLF CREEK PASS 1 E, CO US
+	Elevation: 3243.1
+	Min Date: 1957-12-01
+	Max Date: 2001-11-01
+Site: MEREDITH, CO US
+	Elevation: 2385.1
+	Min Date: 1963-08-01
+	Max Date: 2007-07-01
+Site: FRASER, CO US
+	Elevation: 2609.1
+	Min Date: 1931-01-01
+	Max Date: 1974-07-01
+Site: MONTROSE 1, CO US
+	Elevation: 1763.6
+	Min Date: 1939-04-01
+	Max Date: 1982-10-01
+Site: WILCOX RANCH, CO US
+	Elevation: 1798.6
+	Min Date: 1941-11-01
+	Max Date: 1983-09-01
+Site: PLATORO, CO US
+	Elevation: 2997.4
+	Min Date: 1949-11-01
+	Max Date: 1991-10-01
+Site: BRIGHTON 3 SE, CO US
+	Elevation: 1528.9
+	Min Date: 1973-10-01
+	Max Date: 2015-11-01
+Site: PENROSE, CO US
+	Elevation: 1649.9
+	Min Date: 1931-01-01
+	Max Date: 1972-12-01
+Site: TWO BUTTES, CO US
+	Elevation: 1260
+	Min Date: 1931-01-01
+	Max Date: 1972-06-01
+Site: VONA, CO US
+	Elevation: 1373.1
+	Min Date: 1941-07-01
+	Max Date: 1982-10-01
+Site: FLORISSANT FOSSIL BED, CO US
+	Elevation: 2560.9
+	Min Date: 1974-10-01
+	Max Date: 2015-11-01
+Site: LIMON 10 SSW, CO US
+	Elevation: 1695.9
+	Min Date: 1931-01-01
+	Max Date: 1971-01-01
+Site: CRAIG, CO US
+	Elevation: 1914.1
+	Min Date: 1936-05-01
+	Max Date: 1976-10-01
+Site: DOHERTY RANCH, CO US
+	Elevation: 1563.6
+	Min Date: 1940-02-01
+	Max Date: 1980-09-01
+Site: CUCHARAS DAM, CO US
+	Elevation: 1781.6
+	Min Date: 1948-08-01
+	Max Date: 1988-05-01
+Site: YELLOW JACKET 2 W, CO US
+	Elevation: 2113.2
+	Min Date: 1962-06-01
+	Max Date: 2002-12-01
+Site: PUEBLO RESERVOIR, CO US
+	Elevation: 1481.6
+	Min Date: 1975-07-01
+	Max Date: 2015-11-01
+Site: GROVER 10 W, CO US
+	Elevation: 1551.4
+	Min Date: 1931-01-01
+	Max Date: 1970-10-01
+Site: HIGBEE 2 SW, CO US
+	Elevation: 1296
+	Min Date: 1941-08-01
+	Max Date: 1980-07-01
+Site: DRAKE, CO US
+	Elevation: 1880.6
+	Min Date: 1975-02-01
+	Max Date: 2014-01-01
+Site: FORT COLLINS 9 NW, CO US
+	Elevation: 1591.1
+	Min Date: 1975-02-01
+	Max Date: 2014-01-01
+Site: LAWSON, CO US
+	Elevation: 2468.9
+	Min Date: 1975-02-01
+	Max Date: 2014-01-01
+Site: MULE SHOE LODGE 1 SS, CO US
+	Elevation: 2703.6
+	Min Date: 1948-08-01
+	Max Date: 1986-03-01
+Site: TACOMA, CO US
+	Elevation: 2225
+	Min Date: 1949-11-01
+	Max Date: 1987-08-01
+Site: GOLDEN 3 S, CO US
+	Elevation: 2170.2
+	Min Date: 1976-05-01
+	Max Date: 2014-01-01
+Site: YODER 2 NW, CO US
+	Elevation: 1909.9
+	Min Date: 1976-09-01
+	Max Date: 2014-01-01
+Site: CRAIG 4 SW, CO US
+	Elevation: 1980
+	Min Date: 1977-05-01
+	Max Date: 2015-11-01
+Site: RIO GRANDE RESERVOIR, CO US
+	Elevation: 2893.2
+	Min Date: 1977-09-01
+	Max Date: 2015-11-01
+Site: HARTSEL, CO US
+	Elevation: 2700.5
+	Min Date: 1931-01-01
+	Max Date: 1968-06-01
+Site: GROSS RESERVOIR, CO US
+	Elevation: 2429.3
+	Min Date: 1978-05-01
+	Max Date: 2015-11-01
+Site: INTER CANYON, CO US
+	Elevation: 2188.5
+	Min Date: 1978-05-01
+	Max Date: 2015-11-01
+Site: RALSTON RESERVOIR, CO US
+	Elevation: 1798.3
+	Min Date: 1978-05-01
+	Max Date: 2015-11-01
+Site: PARADOX 1 E, CO US
+	Elevation: 1610
+	Min Date: 1941-11-01
+	Max Date: 1977-10-01
+Site: WOLF CREEK PASS 4 W, CO US
+	Elevation: 2876.1
+	Min Date: 1936-08-01
+	Max Date: 1971-08-01
+Site: WAGON WHEEL GAP 3 N, CO US
+	Elevation: 2592.9
+	Min Date: 1940-05-01
+	Max Date: 1975-03-01
+Site: BERTHOUD PASS, CO US
+	Elevation: 3448.2
+	Min Date: 1950-01-01
+	Max Date: 1985-04-01
+Site: NORTHGATE, CO US
+	Elevation: 2386.6
+	Min Date: 1979-03-01
+	Max Date: 2014-01-01
+Site: ASPEN 1 SW, CO US
+	Elevation: 2491.7
+	Min Date: 1980-06-01
+	Max Date: 2015-11-01
+Site: MONUMENT 2 WSW, CO US
+	Elevation: 2239.1
+	Min Date: 1931-01-01
+	Max Date: 1965-08-01
+Site: GARDNER, CO US
+	Elevation: 2122.9
+	Min Date: 1937-02-01
+	Max Date: 1971-08-01
+Site: BRANSON, CO US
+	Elevation: 1914.1
+	Min Date: 1940-04-01
+	Max Date: 1974-04-01
+Site: MONTE VISTA REFUGE, CO US
+	Elevation: 2339.3
+	Min Date: 1965-05-01
+	Max Date: 1999-04-01
+Site: ORDWAY 21 N, CO US
+	Elevation: 1453
+	Min Date: 1980-06-01
+	Max Date: 2014-12-01
+Site: WHEAT RIDGE 2, CO US
+	Elevation: 1645.3
+	Min Date: 1981-02-01
+	Max Date: 2015-11-01
+Site: INDEPENDENCE PASS 5 SW, CO US
+	Elevation: 3200.4
+	Min Date: 1947-07-01
+	Max Date: 1980-01-01
+Site: CRESTONE 2 SE, CO US
+	Elevation: 2439.6
+	Min Date: 1982-03-01
+	Max Date: 2015-11-01
+Site: LEMON DAM, CO US
+	Elevation: 2471.9
+	Min Date: 1982-04-01
+	Max Date: 2015-11-01
+Site: RIDGWAY, CO US
+	Elevation: 2148.5
+	Min Date: 1982-05-01
+	Max Date: 2015-11-01
+Site: WILLIAMS FORK DAM, CO US
+	Elevation: 2322
+	Min Date: 1982-06-01
+	Max Date: 2015-11-01
+Site: LA JUNTA 20 S, CO US
+	Elevation: 1283.2
+	Min Date: 1982-08-01
+	Max Date: 2015-11-01
+Site: LEADVILLE LAKE CO AIRPORT, CO US
+	Elevation: 3027.3
+	Min Date: 1976-07-01
+	Max Date: 2008-12-01
+Site: EDGEWATER, CO US
+	Elevation: 1661.2
+	Min Date: 1931-01-01
+	Max Date: 1962-05-01
+Site: ERIE, CO US
+	Elevation: 1527
+	Min Date: 1946-01-01
+	Max Date: 1977-08-27
+Site: HOT SULPHUR SPRINGS 2 SW, CO US
+	Elevation: 2318
+	Min Date: 1953-06-01
+	Max Date: 1984-03-01
+Site: BROWNS PARK REFUGE, CO US
+	Elevation: 1631.9
+	Min Date: 1966-04-01
+	Max Date: 1997-07-01
+Site: NORTHGLENN, CO US
+	Elevation: 1648.1
+	Min Date: 1984-09-01
+	Max Date: 2015-11-01
+Site: STRONTIA SPRINGS DAM, CO US
+	Elevation: 1780
+	Min Date: 1984-12-01
+	Max Date: 2015-11-01
+Site: PUEBLO CITY RESERVOIR, CO US
+	Elevation: 1430.1
+	Min Date: 1941-07-01
+	Max Date: 1971-03-01
+Site: AMY, CO US
+	Elevation: 1598.1
+	Min Date: 1943-11-01
+	Max Date: 1973-12-01
+Site: BURLINGTON 12 NNE, CO US
+	Elevation: 1289.9
+	Min Date: 1948-08-01
+	Max Date: 1978-06-01
+Site: VAIL, CO US
+	Elevation: 2531.1
+	Min Date: 1985-02-01
+	Max Date: 2015-11-01
+Site: HOHNHOLZ RANCH, CO US
+	Elevation: 2365.2
+	Min Date: 1985-12-01
+	Max Date: 2015-11-01
+Site: AROYA 6 NE, CO US
+	Elevation: 1460.9
+	Min Date: 1943-11-01
+	Max Date: 1972-12-01
+Site: PAOLI, CO US
+	Elevation: 1189.9
+	Min Date: 1948-08-01
+	Max Date: 1977-07-01
+Site: CREEDE, CO US
+	Elevation: 2698.1
+	Min Date: 1978-06-01
+	Max Date: 2006-08-01
+Site: RYE SCHOOL, CO US
+	Elevation: 2068.4
+	Min Date: 1985-07-01
+	Max Date: 2013-12-29
+Site: TRINIDAD LAKE, CO US
+	Elevation: 1923.3
+	Min Date: 1987-03-01
+	Max Date: 2015-11-01
+Site: NEW RAYMER 21 N, CO US
+	Elevation: 1578.9
+	Min Date: 1987-06-01
+	Max Date: 2015-11-01
+Site: ARRIBA, CO US
+	Elevation: 1597.5
+	Min Date: 1931-01-01
+	Max Date: 1958-10-01
+Site: LIME 3 SE, CO US
+	Elevation: 1493.5
+	Min Date: 1941-08-01
+	Max Date: 1968-10-01
+Site: COALDALE 1 NW, CO US
+	Elevation: 1988.8
+	Min Date: 1948-08-01
+	Max Date: 1975-01-01
+Site: DENVER WEATHER SERVICE OFFICE CITY, CO US
+	Elevation: 1623.1
+	Min Date: 1948-08-01
+	Max Date: 1975-02-01
+Site: SHEEP MOUNTAIN, CO US
+	Elevation: 2360.4
+	Min Date: 1988-01-01
+	Max Date: 2015-11-01
+Site: KIM 10 SSE, CO US
+	Elevation: 1602.3
+	Min Date: 1988-04-01
+	Max Date: 2015-11-01
+Site: BUCKHORN MOUNTAIN 1 E, CO US
+	Elevation: 2255.5
+	Min Date: 1988-08-01
+	Max Date: 2015-11-01
+Site: HOURGLASS RESERVOIR, CO US
+	Elevation: 2901.7
+	Min Date: 1988-09-01
+	Max Date: 2015-11-01
+Site: LINDON 5 WNW, CO US
+	Elevation: 1478.6
+	Min Date: 1988-12-01
+	Max Date: 2015-11-01
+Site: SAPINERO 9 W, CO US
+	Elevation: 2837.1
+	Min Date: 1920-01-01
+	Max Date: 1946-08-01
+Site: CASCADE, CO US
+	Elevation: 2699
+	Min Date: 1931-01-01
+	Max Date: 1957-12-01
+Site: AYER RANCH, CO US
+	Elevation: 2204.9
+	Min Date: 1944-01-01
+	Max Date: 1970-03-01
+Site: FLORISSANT FOSSIL BED, CO US
+	Elevation: 2560.9
+	Min Date: 1948-08-01
+	Max Date: 1974-11-01
+Site: DELHI, CO US
+	Elevation: 1552
+	Min Date: 1954-02-01
+	Max Date: 1980-09-01
+Site: MARVINE RANCH, CO US
+	Elevation: 2377.4
+	Min Date: 1972-07-01
+	Max Date: 1998-08-01
+Site: SAN LUIS 1 S, CO US
+	Elevation: 2421
+	Min Date: 1980-05-01
+	Max Date: 2006-06-01
+Site: FRASER, CO US
+	Elevation: 2609.1
+	Min Date: 1989-05-01
+	Max Date: 2015-11-01
+Site: YUMA 10 NW, CO US
+	Elevation: 1252.7
+	Min Date: 1989-05-01
+	Max Date: 2015-11-01
+Site: LOVELAND 2 N, CO US
+	Elevation: 1548.4
+	Min Date: 1989-09-01
+	Max Date: 2015-11-01
+Site: UTLEYVILLE, CO US
+	Elevation: 1524.9
+	Min Date: 1931-01-01
+	Max Date: 1956-07-01
+Site: GREYSTONE, CO US
+	Elevation: 2072.6
+	Min Date: 1937-03-01
+	Max Date: 1962-03-01
+Site: BUTLER RANCH, CO US
+	Elevation: 1478.9
+	Min Date: 1951-10-01
+	Max Date: 1976-12-01
+Site: KUTCH 6 SSE, CO US
+	Elevation: 1634.9
+	Min Date: 1960-05-01
+	Max Date: 1985-10-01
+Site: AGUILAR, CO US
+	Elevation: 1950.7
+	Min Date: 1980-01-01
+	Max Date: 2005-11-01
+Site: SPRINGFIELD 8 S, CO US
+	Elevation: 1373.1
+	Min Date: 1948-01-01
+	Max Date: 1972-06-01
+Site: LIMON, CO US
+	Elevation: 1638
+	Min Date: 1971-01-01
+	Max Date: 1995-09-01
+Site: DURANGO, CO US
+	Elevation: 2060.8
+	Min Date: 1991-10-01
+	Max Date: 2015-11-01
+Site: RUSTIC 9 WSW, CO US
+	Elevation: 2347
+	Min Date: 1991-10-01
+	Max Date: 2015-11-01
+Site: BLOOM, CO US
+	Elevation: 1363.4
+	Min Date: 1931-01-01
+	Max Date: 1954-01-01
+Site: EVERSOLL RANCH, CO US
+	Elevation: 1090
+	Min Date: 1943-09-01
+	Max Date: 1966-12-01
+Site: LIMON, CO US
+	Elevation: 1638
+	Min Date: 1948-01-01
+	Max Date: 1971-02-01
+Site: WOOTTON RANCH, CO US
+	Elevation: 2310.4
+	Min Date: 1978-05-01
+	Max Date: 2001-01-01
+Site: MASSADONA 3 E, CO US
+	Elevation: 1871.5
+	Min Date: 1986-01-01
+	Max Date: 2009-06-01
+Site: LA VETA PASS, CO US
+	Elevation: 2817
+	Min Date: 1931-01-01
+	Max Date: 1953-12-01
+Site: MEEKER 10 NW, CO US
+	Elevation: 1961.1
+	Min Date: 1931-01-01
+	Max Date: 1953-08-01
+Site: PARSHALL 10 SSE, CO US
+	Elevation: 2521.9
+	Min Date: 1951-06-01
+	Max Date: 1973-12-01
+Site: MEEKER NUMBER 2, CO US
+	Elevation: 1934.6
+	Min Date: 1970-10-01
+	Max Date: 1992-10-01
+Site: FORT CARSON BUTTS ARMY AIR FIELD, CO US
+	Elevation: 1779.4
+	Min Date: 1981-02-01
+	Max Date: 2003-12-01
+Site: WOODROW 6 NNE, CO US
+	Elevation: 1333.2
+	Min Date: 1993-06-01
+	Max Date: 2015-11-01
+Site: GREAT DIVIDE 8 SE, CO US
+	Elevation: 2144
+	Min Date: 1954-07-01
+	Max Date: 1975-03-01
+Site: FORT COLLINS 4 E, CO US
+	Elevation: 1499.6
+	Min Date: 1994-09-01
+	Max Date: 2015-11-01
+Site: COAL CREEK CANYON, CO US
+	Elevation: 2728
+	Min Date: 1994-10-01
+	Max Date: 2015-11-01
+Site: CUMBRES, CO US
+	Elevation: 3052.6
+	Min Date: 1931-01-01
+	Max Date: 1951-08-01
+Site: SUNBEAM 7 SW, CO US
+	Elevation: 1787
+	Min Date: 1931-01-01
+	Max Date: 1951-10-01
+Site: CONEJOS 3 NNW, CO US
+	Elevation: 2410.1
+	Min Date: 1940-06-01
+	Max Date: 1960-02-01
+Site: WETMORE 2 S, CO US
+	Elevation: 2007.1
+	Min Date: 1948-01-01
+	Max Date: 1968-07-01
+Site: EVERGREEN 2 SW, CO US
+	Elevation: 2226.9
+	Min Date: 1948-08-01
+	Max Date: 1968-02-01
+Site: KIOWA, CO US
+	Elevation: 1937
+	Min Date: 1956-01-01
+	Max Date: 1976-12-01
+Site: PUEBLO ARMY DEPOT, CO US
+	Elevation: 1427.1
+	Min Date: 1957-01-01
+	Max Date: 1977-10-01
+Site: DENVER INTERNATIONAL AIRPORT, CO US
+	Elevation: 1650.2
+	Min Date: 1995-03-01
+	Max Date: 2015-11-01
+Site: MARSTON FILTER PLANT, CO US
+	Elevation: 1709.9
+	Min Date: 1995-03-01
+	Max Date: 2015-11-01
+Site: LA JUNTA, CO US
+	Elevation: 1277.7
+	Min Date: 1995-04-01
+	Max Date: 2015-11-01
+Site: ROXBOROUGH ST PARK, CO US
+	Elevation: 1864.5
+	Min Date: 1995-08-01
+	Max Date: 2015-11-01
+Site: VIRGINIA DALE 7 ENE, CO US
+	Elevation: 2138.2
+	Min Date: 1995-12-01
+	Max Date: 2015-11-01
+Site: PEARL, CO US
+	Elevation: 2592.9
+	Min Date: 1931-01-01
+	Max Date: 1950-09-01
+Site: FLORENCE, CO US
+	Elevation: 1583.1
+	Min Date: 1931-06-01
+	Max Date: 1950-08-01
+Site: FERNDALE RANCH, CO US
+	Elevation: 2135.1
+	Min Date: 1941-08-01
+	Max Date: 1960-04-01
+Site: BIG SPRINGS RANCH, CO US
+	Elevation: 1841.9
+	Min Date: 1948-08-01
+	Max Date: 1967-05-04
+Site: CROOK, CO US
+	Elevation: 1130.5
+	Min Date: 1996-03-01
+	Max Date: 2015-11-01
+Site: FLATIRON RESERVOIR, CO US
+	Elevation: 1677.6
+	Min Date: 1996-11-01
+	Max Date: 2015-11-01
+Site: KIT CARSON 9 NNE, CO US
+	Elevation: 1324.7
+	Min Date: 1996-11-01
+	Max Date: 2015-11-01
+Site: SHAW 4 ENE, CO US
+	Elevation: 1524
+	Min Date: 1996-11-01
+	Max Date: 2015-11-01
+Site: CEDAREDGE 3 E, CO US
+	Elevation: 2084.2
+	Min Date: 1996-12-01
+	Max Date: 2015-11-01
+Site: COLUMBINE, CO US
+	Elevation: 2653.9
+	Min Date: 1931-01-01
+	Max Date: 1949-09-01
+Site: FOUNTAIN 9 NE, CO US
+	Elevation: 1816.6
+	Min Date: 1941-06-01
+	Max Date: 1959-12-01
+Site: OVID, CO US
+	Elevation: 1076.9
+	Min Date: 1941-08-01
+	Max Date: 1959-12-01
+Site: BOVINA 3 NNE, CO US
+	Elevation: 1609.3
+	Min Date: 1941-12-01
+	Max Date: 1959-12-01
+Site: ELBERT, CO US
+	Elevation: 2055.9
+	Min Date: 1962-04-01
+	Max Date: 1980-03-01
+Site: NEDERLAND 2 NNE, CO US
+	Elevation: 2511.6
+	Min Date: 1970-04-01
+	Max Date: 1988-05-01
+Site: RUSTIC 12 WSW, CO US
+	Elevation: 2462.8
+	Min Date: 1975-02-01
+	Max Date: 1993-11-01
+Site: PARADOX 1 W, CO US
+	Elevation: 1685.5
+	Min Date: 1977-11-01
+	Max Date: 1995-09-01
+Site: NEDERLAND 5 NNW, CO US
+	Elevation: 3051
+	Min Date: 1996-10-01
+	Max Date: 2014-01-01
+Site: RYE 1 SW, CO US
+	Elevation: 2176.6
+	Min Date: 1997-02-01
+	Max Date: 2015-11-01
+Site: AGUILAR 18 WSW, CO US
+	Elevation: 2634.7
+	Min Date: 1997-06-01
+	Max Date: 2015-11-01
+Site: DENVER WATER DEPARTMENT, CO US
+	Elevation: 1593.5
+	Min Date: 1997-11-01
+	Max Date: 2015-11-01
+Site: LONGS PEAK, CO US
+	Elevation: 2733.1
+	Min Date: 1931-01-01
+	Max Date: 1948-05-01
+Site: WILLOW CREEK 4 SE, CO US
+	Elevation: 2211
+	Min Date: 1931-01-01
+	Max Date: 1948-08-01
+Site: ALAMOSA, CO US
+	Elevation: 2297
+	Min Date: 1932-04-01
+	Max Date: 1949-12-01
+Site: STATE TURKEY EXPERIMENTAL FAR, CO US
+	Elevation: 2030.9
+	Min Date: 1944-09-01
+	Max Date: 1961-06-01
+Site: DINOSAUR NATIONAL MONUMNT, CO US
+	Elevation: 1816.6
+	Min Date: 1948-08-01
+	Max Date: 1965-05-31
+Site: ELK CREEK, CO US
+	Elevation: 2571
+	Min Date: 1948-08-01
+	Max Date: 1965-03-01
+Site: ELECTRA LAKE, CO US
+	Elevation: 2562.1
+	Min Date: 1959-01-01
+	Max Date: 1976-07-01
+Site: SQUAW MOUNTAIN, CO US
+	Elevation: 3507.9
+	Min Date: 1964-09-01
+	Max Date: 1981-07-01
+Site: SOUTH PLATTE, CO US
+	Elevation: 1888.8
+	Min Date: 1978-05-01
+	Max Date: 1995-05-01
+Site: FLEMING 3 SW, CO US
+	Elevation: 1297.2
+	Min Date: 1998-04-01
+	Max Date: 2015-11-01
+Site: COLORADO SPRINGS, CO US
+	Elevation: 1861.1
+	Min Date: 1931-01-01
+	Max Date: 1947-07-01
+Site: BOND, CO US
+	Elevation: 2044
+	Min Date: 1958-11-01
+	Max Date: 1974-12-01
+Site: CONIFER 3 NE, CO US
+	Elevation: 2370.1
+	Min Date: 1965-02-01
+	Max Date: 1981-04-20
+Site: GRAND VALLEY, CO US
+	Elevation: 1552
+	Min Date: 1965-05-01
+	Max Date: 1981-06-01
+Site: LITTLETON, CO US
+	Elevation: 1618.5
+	Min Date: 1978-05-01
+	Max Date: 1994-01-01
+Site: MOUNT EVANS RESEARCH STATION, CO US
+	Elevation: 3240
+	Min Date: 1983-11-01
+	Max Date: 1999-11-01
+Site: ELIZABETH 2 NW, CO US
+	Elevation: 2015
+	Min Date: 1996-09-01
+	Max Date: 2012-12-01
+Site: GLADE PARK 17 W, CO US
+	Elevation: 1927.3
+	Min Date: 1999-12-01
+	Max Date: 2015-11-01
+Site: HAXTUN, CO US
+	Elevation: 1229
+	Min Date: 1931-01-01
+	Max Date: 1946-10-01
+Site: LONG BRANCH, CO US
+	Elevation: 1601.1
+	Min Date: 1931-01-01
+	Max Date: 1946-11-01
+Site: HARMON RANCH, CO US
+	Elevation: 1360
+	Min Date: 1944-02-01
+	Max Date: 1959-12-01
+Site: TIMPAS 13 SW, CO US
+	Elevation: 1472.2
+	Min Date: 1978-05-01
+	Max Date: 1993-09-01
+Site: TRINIDAD RIVER, CO US
+	Elevation: 1844
+	Min Date: 1978-05-01
+	Max Date: 1993-09-01
+Site: REDSTONE 4 W, CO US
+	Elevation: 2458.2
+	Min Date: 1979-01-01
+	Max Date: 1994-06-01
+Site: MONUMENT, CO US
+	Elevation: 2158
+	Min Date: 1988-07-01
+	Max Date: 2003-05-01
+Site: ARAPAHOE 14 N, CO US
+	Elevation: 1262.5
+	Min Date: 1992-03-01
+	Max Date: 2007-01-01
+Site: MATHESON 8 SE, CO US
+	Elevation: 1777
+	Min Date: 1995-12-01
+	Max Date: 2010-08-01
+Site: PARKER, CO US
+	Elevation: 1799.5
+	Min Date: 1997-03-01
+	Max Date: 2012-12-01
+Site: DELTA 3 E, CO US
+	Elevation: 1532.2
+	Min Date: 2000-01-01
+	Max Date: 2015-11-01
+Site: COLLBRAN 1 WSW, CO US
+	Elevation: 1831.5
+	Min Date: 2000-02-01
+	Max Date: 2015-11-01
+Site: GOULD 4 SE S F S P, CO US
+	Elevation: 2743.2
+	Min Date: 2000-10-01
+	Max Date: 2015-11-01
+Site: OLATHE, CO US
+	Elevation: 1634.9
+	Min Date: 1941-04-01
+	Max Date: 1955-07-01
+Site: LIMON ATWATER RANCH, CO US
+	Elevation: 1698.3
+	Min Date: 1941-07-01
+	Max Date: 1955-12-01
+Site: SALIDA 3 W, CO US
+	Elevation: 2282.3
+	Min Date: 1970-12-01
+	Max Date: 1984-05-01
+Site: PUEBLO 6 SSW, CO US
+	Elevation: 1498.1
+	Min Date: 1971-07-01
+	Max Date: 1985-05-01
+Site: ROLLINSVILLE, CO US
+	Elevation: 2585.9
+	Min Date: 1975-02-01
+	Max Date: 1989-01-01
+Site: IGNACIO 6 ESE, CO US
+	Elevation: 1995.8
+	Min Date: 2001-01-01
+	Max Date: 2015-11-01
+Site: ESTES PARK 3 SSE, CO US
+	Elevation: 2381.1
+	Min Date: 2001-08-01
+	Max Date: 2015-11-01
+Site: BOX RANCH, CO US
+	Elevation: 1706.9
+	Min Date: 1937-05-01
+	Max Date: 1950-04-01
+Site: LITTLE DOLORES, CO US
+	Elevation: 2044
+	Min Date: 1942-09-01
+	Max Date: 1955-12-01
+Site: HOEHNE, CO US
+	Elevation: 1738.9
+	Min Date: 1955-12-01
+	Max Date: 1968-11-01
+Site: RED WING 1 WSW, CO US
+	Elevation: 2407.9
+	Min Date: 1982-05-01
+	Max Date: 1995-12-01
+Site: BOONE 9 NNW, CO US
+	Elevation: 1461.2
+	Min Date: 2002-03-01
+	Max Date: 2015-11-01
+Site: FAIRPLAY S PARK RD, CO US
+	Elevation: 3046.5
+	Min Date: 2002-06-01
+	Max Date: 2015-11-01
+Site: CALHAN, CO US
+	Elevation: 1983.6
+	Min Date: 1931-01-01
+	Max Date: 1943-01-01
+Site: KUTCH, CO US
+	Elevation: 1723
+	Min Date: 1948-08-01
+	Max Date: 1960-06-01
+Site: FAIRPLAY, CO US
+	Elevation: 3048
+	Min Date: 1954-09-01
+	Max Date: 1966-08-01
+Site: JONES PASS 2 E, CO US
+	Elevation: 3148
+	Min Date: 1961-09-01
+	Max Date: 1973-08-01
+Site: DECKERS, CO US
+	Elevation: 1980.9
+	Min Date: 1981-07-01
+	Max Date: 1993-11-01
+Site: YELLOW JACKET 4 NE, CO US
+	Elevation: 2161
+	Min Date: 2003-02-01
+	Max Date: 2015-11-01
+Site: ARAPAHOE 12 S, CO US
+	Elevation: 1239
+	Min Date: 2003-07-01
+	Max Date: 2015-11-01
+Site: BLACK CANYON OF THE GUNNISON, CO US
+	Elevation: 2484.4
+	Min Date: 2003-10-01
+	Max Date: 2015-11-01
+Site: COPE, CO US
+	Elevation: 1342
+	Min Date: 1931-01-01
+	Max Date: 1942-10-01
+Site: SARGENTS 6 W, CO US
+	Elevation: 2479.9
+	Min Date: 1947-07-01
+	Max Date: 1958-08-01
+Site: WESTCREEK, CO US
+	Elevation: 2379
+	Min Date: 1948-08-01
+	Max Date: 1959-08-30
+Site: WIGGINS 7 SW, CO US
+	Elevation: 1437.1
+	Min Date: 1960-10-01
+	Max Date: 1971-06-01
+Site: PARACHUTE, CO US
+	Elevation: 1551.4
+	Min Date: 1981-06-01
+	Max Date: 1992-05-01
+Site: SOMERSET 1 E, CO US
+	Elevation: 1915.4
+	Min Date: 1983-09-01
+	Max Date: 1994-03-01
+Site: PAGOSA SPRINGS 2 W, CO US
+	Elevation: 2319.5
+	Min Date: 1999-12-01
+	Max Date: 2010-10-01
+Site: WILD HORSE 6 N, CO US
+	Elevation: 1418.5
+	Min Date: 2004-03-01
+	Max Date: 2015-11-01
+Site: WAVERLY 1 W, CO US
+	Elevation: 2317.4
+	Min Date: 2004-04-01
+	Max Date: 2015-11-01
+Site: GARNETT, CO US
+	Elevation: 2311.9
+	Min Date: 1931-01-01
+	Max Date: 1941-08-01
+Site: SUMMITVILLE, CO US
+	Elevation: 3461.9
+	Min Date: 1939-02-01
+	Max Date: 1949-12-01
+Site: JAROSO, CO US
+	Elevation: 2308.9
+	Min Date: 1939-08-01
+	Max Date: 1949-01-01
+Site: GUFFEY, CO US
+	Elevation: 2623.1
+	Min Date: 1940-06-01
+	Max Date: 1950-03-01
+Site: AGATE 3 SW, CO US
+	Elevation: 1670.9
+	Min Date: 1943-11-01
+	Max Date: 1953-01-01
+Site: EASTONVILLE 3 NW, CO US
+	Elevation: 2135.1
+	Min Date: 1956-01-01
+	Max Date: 1966-07-01
+Site: EASTONVILLE 6 WSW, CO US
+	Elevation: 2318
+	Min Date: 1956-01-01
+	Max Date: 1966-06-01
+Site: ELBERT 2 WNW, CO US
+	Elevation: 2086.1
+	Min Date: 1956-01-01
+	Max Date: 1966-06-01
+Site: ELBERT 3 SE, CO US
+	Elevation: 2058.9
+	Min Date: 1956-01-01
+	Max Date: 1966-06-01
+Site: ELBERT 4 SSW, CO US
+	Elevation: 2201.9
+	Min Date: 1956-01-01
+	Max Date: 1966-06-01
+Site: ELBERT 6 SSE, CO US
+	Elevation: 2199.1
+	Min Date: 1956-01-01
+	Max Date: 1966-06-30
+Site: ELBERT 5 SW, CO US
+	Elevation: 2114.1
+	Min Date: 1956-01-01
+	Max Date: 1966-06-01
+Site: ELBERT 8 SW, CO US
+	Elevation: 2208
+	Min Date: 1956-01-01
+	Max Date: 1966-06-01
+Site: KIOWA 4 SW, CO US
+	Elevation: 1998
+	Min Date: 1956-01-01
+	Max Date: 1966-06-01
+Site: KIOWA 5 S, CO US
+	Elevation: 2019
+	Min Date: 1956-01-01
+	Max Date: 1966-07-01
+Site: EASTONVILLE 2 NNE, CO US
+	Elevation: 2217.1
+	Min Date: 1956-04-01
+	Max Date: 1966-06-01
+Site: KIOWA 5 SE, CO US
+	Elevation: 1937
+	Min Date: 1956-04-01
+	Max Date: 1966-06-01
+Site: CREEDE, CO US
+	Elevation: 2698.1
+	Min Date: 1983-06-01
+	Max Date: 1993-12-01
+Site: RAND, CO US
+	Elevation: 2630.4
+	Min Date: 1988-11-01
+	Max Date: 1998-04-01
+Site: ALLENSPARK 3 NW, CO US
+	Elevation: 2590.8
+	Min Date: 1994-01-01
+	Max Date: 2004-06-01
+Site: DOVE CREEK, CO US
+	Elevation: 2091.8
+	Min Date: 2003-02-01
+	Max Date: 2013-12-01
+Site: PARADOX 2 N, CO US
+	Elevation: 1660.2
+	Min Date: 2005-07-01
+	Max Date: 2015-11-01
+Site: ALAMOSA 1 E, CO US
+	Elevation: 2298.2
+	Min Date: 2005-09-01
+	Max Date: 2015-11-01
+Site: DENVER 1 SW 7NEWS, CO US
+	Elevation: 1599.9
+	Min Date: 2005-11-01
+	Max Date: 2015-11-01
+Site: CLARKVILLE 4 W, CO US
+	Elevation: 1243.9
+	Min Date: 2005-12-01
+	Max Date: 2015-11-01
+Site: CRIPPLE CREEK 3 NNW, CO US
+	Elevation: 2814.8
+	Min Date: 2005-12-01
+	Max Date: 2015-11-01
+Site: CAMPO 21 E, CO US
+	Elevation: 1333.5
+	Min Date: 1941-08-01
+	Max Date: 1950-12-01
+Site: PUEBLO FIRE STATION NUMBER 2, CO US
+	Elevation: 1434.1
+	Min Date: 1945-05-01
+	Max Date: 1954-06-01
+Site: SAN LUIS LAKES 3 W, CO US
+	Elevation: 2297
+	Min Date: 1946-06-01
+	Max Date: 1955-06-01
+Site: MORRISON 1 SW, CO US
+	Elevation: 1780
+	Min Date: 1948-08-01
+	Max Date: 1957-12-07
+Site: GLENDEVEY, CO US
+	Elevation: 2521.9
+	Min Date: 1949-10-01
+	Max Date: 1958-06-01
+Site: ELLICOTT, CO US
+	Elevation: 1836.1
+	Min Date: 1967-05-01
+	Max Date: 1976-10-01
+Site: VERNON 4 ENE, CO US
+	Elevation: 1164.6
+	Min Date: 2006-01-01
+	Max Date: 2015-11-01
+Site: GOLDEN 3 SW, CO US
+	Elevation: 2272.3
+	Min Date: 2006-07-01
+	Max Date: 2015-11-01
+Site: OURAY NUMBER 2, CO US
+	Elevation: 2352.4
+	Min Date: 2006-09-01
+	Max Date: 2015-11-01
+Site: KLINE 3 W, CO US
+	Elevation: 2019
+	Min Date: 1941-07-01
+	Max Date: 1949-06-01
+Site: CARIBOU RANCH, CO US
+	Elevation: 2550
+	Min Date: 1962-12-01
+	Max Date: 1970-06-01
+Site: LA VETA, CO US
+	Elevation: 2144
+	Min Date: 1963-08-01
+	Max Date: 1971-07-01
+Site: MESA LAKES RESORT, CO US
+	Elevation: 2988.9
+	Min Date: 1971-09-01
+	Max Date: 1979-03-01
+Site: WHEAT RIDGE, CO US
+	Elevation: 1644.1
+	Min Date: 1975-04-01
+	Max Date: 1983-07-01
+Site: AVON, CO US
+	Elevation: 2283.6
+	Min Date: 1981-08-01
+	Max Date: 1989-10-01
+Site: BEDROCK, CO US
+	Elevation: 1517.9
+	Min Date: 1997-01-01
+	Max Date: 2005-04-01
+Site: SHERIDAN LAKE, CO US
+	Elevation: 1241.1
+	Min Date: 2000-01-01
+	Max Date: 2008-09-01
+Site: GUFFEY 9 SE, CO US
+	Elevation: 2717.3
+	Min Date: 2007-01-01
+	Max Date: 2015-11-01
+Site: CREEDE WATER TREATMENT, CO US
+	Elevation: 2628.6
+	Min Date: 2007-02-01
+	Max Date: 2015-11-01
+Site: SANTA MARIA RESERVOIR, CO US
+	Elevation: 2952.6
+	Min Date: 2007-06-01
+	Max Date: 2015-11-01
+Site: COLORADO SPRINGS FIRE STATION 19, CO US
+	Elevation: 2064.7
+	Min Date: 2007-12-01
+	Max Date: 2015-10-01
+Site: COLORADO SPRINGS FIRE STATION 20, CO US
+	Elevation: 2047.6
+	Min Date: 2007-12-01
+	Max Date: 2015-11-01
+Site: WATERFALL RANCH, CO US
+	Elevation: 2211
+	Min Date: 1935-05-01
+	Max Date: 1942-04-01
+Site: SEDALIA, CO US
+	Elevation: 1882.1
+	Min Date: 1941-04-01
+	Max Date: 1948-06-01
+Site: SPRINGFIELD 8 SW, CO US
+	Elevation: 1339
+	Min Date: 1943-01-01
+	Max Date: 1950-12-01
+Site: BURLINGTON 8 SE, CO US
+	Elevation: 1293
+	Min Date: 1948-08-01
+	Max Date: 1955-04-23
+Site: WEST MUDDY RANGER ST, CO US
+	Elevation: 2532
+	Min Date: 1950-06-01
+	Max Date: 1957-10-01
+Site: POWDERHORN, CO US
+	Elevation: 2467.1
+	Min Date: 1964-08-01
+	Max Date: 1971-01-01
+Site: BASALT, CO US
+	Elevation: 2019
+	Min Date: 1965-07-01
+	Max Date: 1972-07-01
+Site: VICTOR, CO US
+	Elevation: 2959
+	Min Date: 1966-02-01
+	Max Date: 1973-12-01
+Site: CONIFER 8 W, CO US
+	Elevation: 2895.6
+	Min Date: 1997-03-01
+	Max Date: 2004-02-01
+Site: VERNON 4 SW, CO US
+	Elevation: 1188.7
+	Min Date: 1998-04-01
+	Max Date: 2005-10-01
+Site: BROWNS PARK STORE, CO US
+	Elevation: 1696.8
+	Min Date: 2003-06-01
+	Max Date: 2010-11-01
+Site: COLORADO SPRINGS FIRE STATION 18, CO US
+	Elevation: 2021.7
+	Min Date: 2008-01-01
+	Max Date: 2015-11-01
+Site: BEULAH MPEC, CO US
+	Elevation: 2019.9
+	Min Date: 2008-02-01
+	Max Date: 2015-11-01
+Site: PLACERVILLE, CO US
+	Elevation: 2250.3
+	Min Date: 2008-12-01
+	Max Date: 2015-11-01
+Site: ARVADA, CO US
+	Elevation: 1677.9
+	Min Date: 1938-08-01
+	Max Date: 1944-11-01
+Site: SARCILLO, CO US
+	Elevation: 2104.9
+	Min Date: 1940-05-01
+	Max Date: 1946-07-01
+Site: WIGGINS 3 SSE, CO US
+	Elevation: 1388.1
+	Min Date: 1941-08-01
+	Max Date: 1947-02-01
+Site: TENNESSEE PASS, CO US
+	Elevation: 3126
+	Min Date: 1947-07-01
+	Max Date: 1953-07-31
+Site: GREAT DIVIDE, CO US
+	Elevation: 2094.9
+	Min Date: 1948-08-01
+	Max Date: 1954-08-01
+Site: PUEBLO WEATHER BUREAU AIRPORT, CO US
+	Elevation: 1464.9
+	Min Date: 1948-08-01
+	Max Date: 1954-07-30
+Site: GORE PASS RANCH, CO US
+	Elevation: 2318
+	Min Date: 1957-06-01
+	Max Date: 1963-12-01
+Site: ARBOLES, CO US
+	Elevation: 1884.9
+	Min Date: 1957-10-01
+	Max Date: 1963-09-01
+Site: WETMORE 9 S, CO US
+	Elevation: 2244.9
+	Min Date: 1968-08-01
+	Max Date: 1974-12-01
+Site: PERRY PARK, CO US
+	Elevation: 1929.1
+	Min Date: 1978-05-01
+	Max Date: 1984-05-01
+Site: BOONE 2 SE, CO US
+	Elevation: 1351.8
+	Min Date: 1980-07-01
+	Max Date: 1986-05-01
+Site: BENNETT, CO US
+	Elevation: 1671.2
+	Min Date: 1989-01-01
+	Max Date: 1995-01-01
+Site: RED FEATHER LAKES, CO US
+	Elevation: 2529.8
+	Min Date: 1991-08-01
+	Max Date: 1997-04-01
+Site: LARKSPUR 4 NW, CO US
+	Elevation: 2087.9
+	Min Date: 1997-09-01
+	Max Date: 2003-09-01
+Site: COMO 4 SE, CO US
+	Elevation: 2901.1
+	Min Date: 1998-08-01
+	Max Date: 2004-12-01
+Site: WILD HORSE 11 SSE, CO US
+	Elevation: 1336.5
+	Min Date: 2004-03-01
+	Max Date: 2010-01-01
+Site: SHERIDAN LAKE 4 E, CO US
+	Elevation: 1231.1
+	Min Date: 2009-03-01
+	Max Date: 2015-11-01
+Site: MONUMENT 3 S, CO US
+	Elevation: 2079
+	Min Date: 2009-08-01
+	Max Date: 2015-11-01
+Site: NORWOOD NUMBER 2, CO US
+	Elevation: 2137
+	Min Date: 2009-10-01
+	Max Date: 2015-11-01
+Site: RIFLE 3 ENE, CO US
+	Elevation: 1667
+	Min Date: 2009-10-01
+	Max Date: 2015-11-01
+Site: CUCHACA CAMPS, CO US
+	Elevation: 2500.9
+	Min Date: 1931-01-01
+	Max Date: 1936-04-01
+Site: FREMONT EXPERIMENTAL STATION, CO US
+	Elevation: 2699
+	Min Date: 1931-01-01
+	Max Date: 1936-08-01
+Site: KIOWA, CO US
+	Elevation: 1951.9
+	Min Date: 1937-01-01
+	Max Date: 1942-09-01
+Site: SAN ISABEL, CO US
+	Elevation: 2589
+	Min Date: 1938-01-01
+	Max Date: 1943-09-01
+Site: MARSHALL PASS, CO US
+	Elevation: 3308.9
+	Min Date: 1947-07-01
+	Max Date: 1952-09-01
+Site: MIDWAY 4 N, CO US
+	Elevation: 1631.9
+	Min Date: 1948-08-01
+	Max Date: 1953-11-01
+Site: SPRINGFIELD 8 SW, CO US
+	Elevation: 1339
+	Min Date: 1951-01-01
+	Max Date: 1956-08-01
+Site: ROGGEN 2 S, CO US
+	Elevation: 1446
+	Min Date: 1955-05-01
+	Max Date: 1960-09-01
+Site: LITTLE DOLORES 5 NE, CO US
+	Elevation: 1946.1
+	Min Date: 1961-11-01
+	Max Date: 1966-11-01
+Site: BROWNS PARK REFUGE, CO US
+	Elevation: 1713
+	Min Date: 1997-08-01
+	Max Date: 2002-01-01
+Site: ECKLEY 14 N, CO US
+	Elevation: 1186.6
+	Min Date: 1998-04-01
+	Max Date: 2003-08-01
+Site: BOONE 6 SSW, CO US
+	Elevation: 1400.9
+	Min Date: 2002-03-01
+	Max Date: 2007-04-01
+Site: ARBOLES 1 W, CO US
+	Elevation: 1890.7
+	Min Date: 2002-11-01
+	Max Date: 2007-07-01
+Site: MONUMENT 1 SSE, CO US
+	Elevation: 2113.8
+	Min Date: 2004-03-01
+	Max Date: 2009-01-01
+Site: OAK CREEK 7 WSW, CO US
+	Elevation: 2500.9
+	Min Date: 2005-12-01
+	Max Date: 2010-12-01
+Site: HAMILTON 1 SSE, CO US
+	Elevation: 1944.6
+	Min Date: 2007-08-01
+	Max Date: 2012-12-01
+Site: SAN LUIS 1 S, CO US
+	Elevation: 2418.9
+	Min Date: 2009-06-01
+	Max Date: 2014-01-01
+Site: ELLICOTT 7 S, CO US
+	Elevation: 1749.2
+	Min Date: 2010-02-01
+	Max Date: 2015-11-01
+Site: BLACK FOREST 6 WNW, CO US
+	Elevation: 2120.5
+	Min Date: 2010-04-01
+	Max Date: 2015-11-01
+Site: DENVER MUSEUM, CO US
+	Elevation: 1617.6
+	Min Date: 2010-05-01
+	Max Date: 2015-11-01
+Site: MASSADONA, CO US
+	Elevation: 1767.2
+	Min Date: 2010-07-01
+	Max Date: 2015-11-01
+Site: BETHUNE, CO US
+	Elevation: 1281.1
+	Min Date: 1949-05-01
+	Max Date: 1953-06-01
+Site: KIRK, CO US
+	Elevation: 1220.1
+	Min Date: 1949-05-01
+	Max Date: 1953-06-01
+Site: THURMAN 3 ENE, CO US
+	Elevation: 1388.1
+	Min Date: 1949-09-01
+	Max Date: 1953-06-01
+Site: MEREDITH 4 NE, CO US
+	Elevation: 2592.9
+	Min Date: 1949-11-01
+	Max Date: 1953-06-01
+Site: WETMORE 8 SW, CO US
+	Elevation: 2377.4
+	Min Date: 1949-11-01
+	Max Date: 1953-06-01
+Site: HIAWATHA, CO US
+	Elevation: 2165.9
+	Min Date: 1953-09-01
+	Max Date: 1957-08-01
+Site: GLEN COMFORT, CO US
+	Elevation: 2240.3
+	Min Date: 1995-04-01
+	Max Date: 1999-03-01
+Site: COLORADO SPRINGS FIRE DEPARTMENT COMPLEX, CO US
+	Elevation: 1825.8
+	Min Date: 2008-01-01
+	Max Date: 2012-12-01
+Site: PAGOSA SPRINGS 6 WNW, CO US
+	Elevation: 2370.1
+	Min Date: 2010-12-01
+	Max Date: 2014-12-01
+Site: DIVIDE 4 NW, CO US
+	Elevation: 2784
+	Min Date: 2011-01-01
+	Max Date: 2015-11-01
+Site: GRAND JUNCTION WEATHER FORECAST OFFICE, CO US
+	Elevation: 1471
+	Min Date: 2011-01-01
+	Max Date: 2015-11-01
+Site: WEATHER FORECAST OFFICE PUEBLO, CO US
+	Elevation: 1418.2
+	Min Date: 2011-01-01
+	Max Date: 2015-11-01
+Site: GLEN MAR, CO US
+	Elevation: 2649.9
+	Min Date: 1948-01-01
+	Max Date: 1951-05-01
+Site: OIL SHALE MINE, CO US
+	Elevation: 2500.9
+	Min Date: 1948-01-01
+	Max Date: 1951-11-01
+Site: REDCLIFF, CO US
+	Elevation: 2625.9
+	Min Date: 1948-01-01
+	Max Date: 1951-08-30
+Site: DE BEQUE, CO US
+	Elevation: 1510
+	Min Date: 1951-12-01
+	Max Date: 1954-06-01
+Site: RED FEATHER LAKES 6, CO US
+	Elevation: 2318
+	Min Date: 1959-10-01
+	Max Date: 1962-08-01
+Site: GREENLAND, CO US
+	Elevation: 2097.9
+	Min Date: 1978-05-01
+	Max Date: 1981-09-01
+Site: CROWDER RANCH, CO US
+	Elevation: 1563.9
+	Min Date: 1980-10-01
+	Max Date: 1983-03-01
+Site: KIM 5 SW, CO US
+	Elevation: 1770.9
+	Min Date: 1980-12-01
+	Max Date: 1983-01-01
+Site: RAWHIDE RESERVOIR, CO US
+	Elevation: 1741.9
+	Min Date: 1982-06-01
+	Max Date: 1985-07-01
+Site: SKY RANCH LUTHRN CMP, CO US
+	Elevation: 2773.4
+	Min Date: 1985-07-01
+	Max Date: 1988-07-01
+Site: KEYSTONE 5 E, CO US
+	Elevation: 3063.2
+	Min Date: 1994-11-01
+	Max Date: 1997-10-01
+Site: WELLINGTON 5 WNW, CO US
+	Elevation: 1603.2
+	Min Date: 1995-03-01
+	Max Date: 1998-12-01
+Site: FLAGLER 16 NNW, CO US
+	Elevation: 1485.9
+	Min Date: 2004-03-01
+	Max Date: 2007-02-01
+Site: WRAY 19 N, CO US
+	Elevation: 1150.9
+	Min Date: 2004-04-01
+	Max Date: 2007-12-01
+Site: PLEASANT VIEW 5 SW, CO US
+	Elevation: 2103.4
+	Min Date: 2010-01-01
+	Max Date: 2013-09-01
+Site: ASPEN PITKIN CO AIRPORT SARDY FIELD, CO US
+	Elevation: 2353.1
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: CORTEZ MONTEZUMA CO AIRPORT, CO US
+	Elevation: 1801.4
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: CRAIG MOFFAT CO AIRPORT, CO US
+	Elevation: 1886.7
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: DURANGO LA PLATA CO AIRPORT, CO US
+	Elevation: 2033
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: LAKE CITY 1 NNE, CO US
+	Elevation: 2656
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: MEEKER AIRPORT, CO US
+	Elevation: 1940.4
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: MONTROSE REGIONAL AIRPORT, CO US
+	Elevation: 1743.5
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: RIFLE GARFIELD CO AIRPORT, CO US
+	Elevation: 1683.1
+	Min Date: 2012-01-01
+	Max Date: 2015-11-01
+Site: PUEBLO FIRE STATION NUMBER 5, CO US
+	Elevation: 1464
+	Min Date: 1948-01-01
+	Max Date: 1950-01-01
+Site: RABBIT EARS PASS, CO US
+	Elevation: 2849
+	Min Date: 1948-08-01
+	Max Date: 1950-03-25
+Site: CAMPO 21 E, CO US
+	Elevation: 1333.5
+	Min Date: 1951-01-01
+	Max Date: 1953-12-01
+Site: ST ELMO, CO US
+	Elevation: 3052.9
+	Min Date: 1951-01-01
+	Max Date: 1953-06-01
+Site: TWO BUTTES RESERVOIR, CO US
+	Elevation: 1296
+	Min Date: 1953-03-01
+	Max Date: 1955-03-01
+Site: TWIN LAKES EVAPORATI, CO US
+	Elevation: 2797.1
+	Min Date: 1965-06-01
+	Max Date: 1967-04-01
+Site: ANTERO JUNCTION 3 NN, CO US
+	Elevation: 2753.9
+	Min Date: 1966-06-01
+	Max Date: 1968-01-01
+Site: GLADE PARK STORE, CO US
+	Elevation: 2135.1
+	Min Date: 1967-04-01
+	Max Date: 1969-08-01
+Site: COLLBRAN 3 ENE, CO US
+	Elevation: 1969.9
+	Min Date: 1968-01-01
+	Max Date: 1970-01-01
+Site: PRITCHETT 16 SW, CO US
+	Elevation: 1578.9
+	Min Date: 1980-12-01
+	Max Date: 1982-02-01
+Site: CUCHARAS DAM 4 NW, CO US
+	Elevation: 1830.9
+	Min Date: 1982-11-01
+	Max Date: 1984-09-01
+Site: OLATHE 4 SSW, CO US
+	Elevation: 1705.7
+	Min Date: 1983-08-01
+	Max Date: 1985-09-01
+Site: GOLDEN 6 NW, CO US
+	Elevation: 2316.5
+	Min Date: 1997-06-01
+	Max Date: 1999-01-01
+Site: HOLLY 1 NW, CO US
+	Elevation: 1038.8
+	Min Date: 2009-10-01
+	Max Date: 2011-12-01
+Site: FRUITA 2 W, CO US
+	Elevation: 1360
+	Min Date: 2012-01-01
+	Max Date: 2014-12-01
+Site: LEADVILLE 1 SSW, CO US
+	Elevation: 3061.7
+	Min Date: 2013-01-01
+	Max Date: 2015-11-01
+Site: FROZE CREEK, CO US
+	Elevation: 2500.9
+	Min Date: 1948-08-01
+	Max Date: 1949-06-01
+Site: TABERNASH, CO US
+	Elevation: 2541.1
+	Min Date: 1950-10-01
+	Max Date: 1951-09-01
+Site: MILDRED, CO US
+	Elevation: 1250.9
+	Min Date: 1952-05-01
+	Max Date: 1953-06-01
+Site: CHIVINGTON, CO US
+	Elevation: 1189.9
+	Min Date: 1953-03-01
+	Max Date: 1954-12-01
+Site: CHIMNEY ROCK, CO US
+	Elevation: 1998
+	Min Date: 1961-08-01
+	Max Date: 1962-07-01
+Site: REDSTONE, CO US
+	Elevation: 2196.1
+	Min Date: 1963-08-01
+	Max Date: 1964-12-01
+Site: COALDALE 2 SW, CO US
+	Elevation: 2104.9
+	Min Date: 1963-10-01
+	Max Date: 1964-11-01
+Site: FAIRPLAY 2, CO US
+	Elevation: 3034.9
+	Min Date: 1964-06-01
+	Max Date: 1965-09-01
+Site: LAST CHANCE, CO US
+	Elevation: 1460.9
+	Min Date: 1964-06-01
+	Max Date: 1965-03-01
+Site: BLUE MESA DAM, CO US
+	Elevation: 2295.1
+	Min Date: 1966-04-01
+	Max Date: 1967-10-01
+Site: CASTLE ROCK 2, CO US
+	Elevation: 1894
+	Min Date: 1967-01-01
+	Max Date: 1968-11-01
+Site: GOLDEN 3 S, CO US
+	Elevation: 2170.2
+	Min Date: 1975-02-01
+	Max Date: 1976-06-01
+Site: CENTRAL CITY, CO US
+	Elevation: 2605.1
+	Min Date: 1976-05-01
+	Max Date: 1977-09-01
+Site: NEPESTA 2 NW, CO US
+	Elevation: 1342
+	Min Date: 1978-05-01
+	Max Date: 1979-12-01
+Site: CREEDE 1 W, CO US
+	Elevation: 2750.8
+	Min Date: 1989-01-01
+	Max Date: 1990-03-01
+Site: ECKLEY 16 NNW, CO US
+	Elevation: 1192.4
+	Min Date: 2004-03-01
+	Max Date: 2005-09-01
+Site: CHAMA, CO US
+	Elevation: 2509.4
+	Min Date: 2007-06-01
+	Max Date: 2008-11-01
+Site: LAKE CITY NUMBER 2, CO US
+	Elevation: 2644.4
+	Min Date: 2010-07-01
+	Max Date: 2011-12-01
+Site: GRAFT 2 NNE, CO US
+	Elevation: 1510
+	Min Date: 1948-06-01
+	Max Date: 1948-11-01
+Site: GUFFEY 5 N, CO US
+	Elevation: 2745
+	Min Date: 1950-07-01
+	Max Date: 1950-11-01
+Site: CASCADE NUMBER 2, CO US
+	Elevation: 2439.9
+	Min Date: 1958-01-01
+	Max Date: 1958-12-01
+Site: BOYERO 1 WSW, CO US
+	Elevation: 1445.1
+	Min Date: 1981-01-01
+	Max Date: 1981-09-01
+Site: WELDONA 2 SE, CO US
+	Elevation: 1325.9
+	Min Date: 1981-11-01
+	Max Date: 1981-11-01
+Site: BEDROCK 4 NE, CO US
+	Elevation: 1499.6
+	Min Date: 1988-02-01
+	Max Date: 1988-02-20
+Site: COMO 13 SSE, CO US
+	Elevation: 2895.6
+	Min Date: 1997-11-01
+	Max Date: 1997-11-01
+Site: ELIZABETH 7 S, CO US
+	Elevation: 2067.8
+	Min Date: 2015-01-01
+	Max Date: 2015-11-01
