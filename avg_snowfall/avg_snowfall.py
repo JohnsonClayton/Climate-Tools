@@ -143,12 +143,12 @@ def graph_data(wyears):
   
   color = 'tab:blue'
   ax1.set_xlabel('Water Years')
-  ax1.set_ylabel('Snowfall (mm)', color=color)
+  ax1.set_ylabel('Snowfall (in)', color=color)
   ax1.plot(years, snowfall_data, color=color)
   ax1.tick_params(axis='y', labelcolor=color)
 
   # Graphing Snowfall trendline
-  z = np.polyfit(trend_years, trend_snowfall_data, 1)
+  z = np.polyfit(trend_years, trend_snowfall_data, 2)
   p = np.poly1d(z)
   trend_data_points = []
   for tyear in trend_years:
@@ -160,12 +160,12 @@ def graph_data(wyears):
   ax2 = ax1.twinx() # Creates the second axis that shares the domain
 
   color = 'tab:green'
-  ax2.set_ylabel('Precipitation (mm)', color=color)
+  ax2.set_ylabel('Precipitation (in)', color=color)
   ax2.plot(years, precip_data, color=color)
   ax2.tick_params(axis='y', labelcolor=color)
 
   # Graphing Precipitation trendline
-  z = np.polyfit(trend_years, trend_precip_data, 1)
+  z = np.polyfit(trend_years, trend_precip_data, 2)
   p = np.poly1d(z)
   print('precip trend is {}'.format(p))
   trend_data_points = []
