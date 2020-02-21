@@ -9,6 +9,7 @@
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
+import os
 
 class Month:
   def __init__(self, _num, _precip, _snowfall):
@@ -64,7 +65,7 @@ def get_water_years():
   
   water_years = []
   
-  with open('../../data/crested_butte.csv') as csvFile:
+  with open('../../data/crested_butte.csv', 'r') as csvFile:
     reader = csv.reader(csvFile, delimiter=',')
     for line in reader:
       """line[0] => Site code (US...)
@@ -177,16 +178,37 @@ def graph_data(wyears):
   fig.tight_layout()
   plt.show()
 
-def print_summary(wyears):
-  for water_year in water_years:
-    print('Year: {}'.format(water_year.getYear()))
-    if water_year.isGood():
-      print('\tTotal Precipitation: {}'.format(water_year.sumPrecip()))
-      print('\tTotal Snowfall: {}'.format(water_year.sumSnowfall()))
+def get_output_file():
+  filename = 'crested_butte_precip_snowfall_summary.csv'
+  counter = 0
+  while os.path.isfile(filename):
+    if counter > 8:
+      print('Too many copies with same file name! Please rename output file or else overwriting and data loss will occur!')
+    counter += 1
+    if not filename[-4:] == '.csv':
+      filename = list(filename)
+      filename[-1] = str(counter)
+      filename = ''.join(filename)
     else:
-      print('\tBad Data')
-  
+      filename += '.' + str(counter)
+  return filename
+
+def print_summary(wyears):
+
+  with open(get_output_file(), 'w') as outf: 
+    outf.write('Year,Precip,Snowfall\n')
+    for water_year in water_years:
+      outf.write('{},'.format(water_year.getYear()))
+      if water_year.isGood():
+        outf.write('{},'.format(round(water_year.sumPrecip(), 2)))
+        outf.write('{},'.format(round(water_year.sumSnowfall(), 2)))
+        outf.write('\n')
+      else:
+        outf.write('\tbad data\n')
+    outf.close()
+    
           
 water_years = clean_data(get_water_years())
 graph_data(water_years)
+print_summary(water_years)
 
