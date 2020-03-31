@@ -12,7 +12,7 @@ class Month:
     self._runoff = runoff
   
   def __str__(self):
-    return str(self._num) + ' ' + str(self._runoff)
+      return str(self._num) + ' ' + str(self._runoff)
 
   def getRunOff(self):
     return self._runoff
@@ -24,10 +24,15 @@ class WaterYear:
     self._months.append(Month(month, runoff))
     self._bad_data = False
 
-  def __str__(self):
-    ret = str(self._year) + '\n'
-    for month in self._months:
-      ret += '  ' + str(month) + '\n'
+  def __str__(self, verbose=False): # This line doesn't even make sense because you can't pass in verbose
+    ret = str(self._year)
+    if verbose:
+      ret += '\n'
+      for month in self._months:
+        ret += '  ' + str(month) + '\n'
+    else:
+      ret += ','
+      ret += str(self.sumRunOff()) + '\n'
     return ret
 
   def getYear(self):
@@ -43,18 +48,25 @@ class WaterYear:
     self._bad_data = True
 
   def isGood(self):
-    return not self._bad_data
+    return len(self._months) == 12
+
+  def sumRunOff(self):
+    suma = 0
+    for month in self._months:
+      suma += month.getRunOff()
+
+    return suma
 
 
-def parse_and_print(filename=''):
+def parse(filename=''):
   """
-  parse_and_print
+  parse
 
-  takes in a given file, parses the file, and creates a graph using the input data
+  takes in a given file and parses the file
 
   args: filename ( by default, filename='')
 
-  returns: void
+  returns: a list of WaterYear objects
 
   """
   if filename != '':
@@ -109,8 +121,51 @@ def parse_and_print(filename=''):
     # Nothing to do
     print('Nothing to do...')
 
+  return [ year for year in water_years if year.isGood() ]
+
+def graph(water_years=[]):
+  """
+  graph
+
+    This function takes a single argument of a list of WaterYear objects and graphs them
+
+  args: list of WaterYear objects (by default, water_years=[] )
+
+  returns: void
+
+  """
+
   for year in water_years:
     print(year)
 
+def output_to_file(water_years=[]):
+  """
+  output_to_file
+    
+    This function takes the a list of water years and outputs them to a file
+
+  args: list of WaterYear objects (by default, water_years=[] )
+
+  returns: void
+  """
+
+  with open('runoff_output.csv', 'w') as outf:
+    for year in water_years:
+      outf.write(str(year))
+
+def parse_and_graph(filename=''):
+  """
+  parse_and_graph
+
+    This function calls the parsing function. From the values returned from the parsing function, the function will then call the graph function
+
+  args: filename (by default, filename='')
+
+  returns: void
+
+  """
+  #graph(parse(filename))
+  output_to_file(parse(filename))
+
 if __name__ == '__main__':
-  parse_and_print('runoffdata.csv')
+  parse_and_graph('runoffdata.csv')
