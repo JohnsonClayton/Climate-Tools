@@ -3,6 +3,38 @@
 import csv
 import matplotlib.pyplot as plt
 
+def getmultiplier(month=0, year=0):
+  """
+  getmultiplier - finds the total number of seconds in a given month of a given year
+
+  args: month (by default, month=0)
+        year  (by default, year=0)
+
+  returns: int indicating the number of seconds in the given month
+  """
+  
+  # Seconds per day
+  spd = 86400
+
+  days = 0
+  
+  # If the month is Jan, March, May, July, August, October, or December, it has 31 days
+  if month in [1, 3, 5, 7, 8, 10, 12]:
+    days = 31
+  # Else, if the month is April, June, September, or November, it has 30 days
+  elif month in [4, 6, 9, 11]:
+    days = 30
+  # Otherwise, the month is Feb and is a trouble maker
+  else:
+    # Is it a leap year?
+    if year % 4 == 0:
+      days = 29
+    else:
+      days = 28
+
+  # Find total number of seconds in the month and return
+  return spd*days
+  
 
 # Class implementation for water years used in other (of my) code
 
@@ -110,7 +142,7 @@ def parse(filename=''):
           added = False
           for water_year in water_years:
             if year == water_year.getYear():
-              water_year.addMonth(month, runoff)
+              water_year.addMonth(month, runoff*getmultiplier(month, year if month <= 10 else year-1))
               added = True
           if not added:
              water_years.append(WaterYear(year, month, runoff))
@@ -149,7 +181,7 @@ def output_to_file(water_years=[]):
   returns: void
   """
 
-  with open('runoff_output.csv', 'w') as outf:
+  with open('runoff_output1.csv', 'w') as outf:
     for year in water_years:
       outf.write(str(year))
 
