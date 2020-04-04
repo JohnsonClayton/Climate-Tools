@@ -19,3 +19,7 @@ R<sup>2</sup><sub>Precip</sub> = 0.4845
 #### Can we use run off data over the same time interval to measure *snowfall* by proxy in the Crested Butte Basin?
 ![River Discharge and Precipitation Correlation Graph](https://github.com/JohnsonClayton/Climate-Tools/blob/master/media/Snowfall%20(inches)_vs_River%20Discharge%20(cubic%20feet).png)
 R<sup>2</sup><sub>Snow</sub> = 0.4510
+
+#### Discussion
+![Runoff and Precip/Snowfall Data Collection Map](https://github.com/JohnsonClayton/Climate-Tools/blob/master/media/crestedbutteandrunoff.png)
+
