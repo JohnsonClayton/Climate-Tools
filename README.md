@@ -24,9 +24,7 @@ R<sup>2</sup><sub>Snow</sub> = 0.4510
 The idea that rain and snow melt flow downhill (as opposed to uphill) is commonly accepted [source required]. With this, we would expect to see high correlations between the measured precipitation and snowfall and overall runoff downstream. **Why do we see low correlation?** To start off, let's look at our collection sites. The two collection sites are shown below in a map with Crested Butte labelled in blue and Almont in red.    
 
 
-<img src='https://github.com/JohnsonClayton/Climate-Tools/blob/master/media/crestedbutteandrunoff.png' alt='Runoff and Precip/Snowfall Data Collection Map' width=100 />
-
-![Runoff and Precip/Snowfall Data Collection Map](https://github.com/JohnsonClayton/Climate-Tools/blob/master/media/crestedbutteandrunoff.png)
+<img src='https://github.com/JohnsonClayton/Climate-Tools/blob/master/media/crestedbutteandrunoff.png' alt='Runoff and Precip/Snowfall Data Collection Map' width=800 />
 
 Our first issue could show up from the geographic orientation of the two sites. Notice there is a river flowing from Crested Butte to Almont (that is the East River) and it joins with the Taylor River at Almont. It's possible that the runoff measurements include the runoff in the Taylor River. Further, the precipitation and snowfall measurements in Crested Butte may not represent the measurements of the surrounding areas, like those feeding the Taylor River.  
 
