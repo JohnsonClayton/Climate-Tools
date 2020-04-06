@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import scipy
 
-def graph(filename='', x_axis_data='', y_axis_data='', title='', xlabel='', ylabel='', save_fig=False):
+def graph(filename='', x_axis_data='', y_axis_data='', title='', xlabel='', ylabel='', normalized=False, save_fig=False):
   """
   graph - Graphs the data from the given file
 
@@ -18,7 +18,10 @@ def graph(filename='', x_axis_data='', y_axis_data='', title='', xlabel='', ylab
   """
 
   df = pd.read_csv(filename, index_col=0)
-  #print(df.head())
+
+  # Normalizes the data if requested (this shouldn't change the correlation statistics)
+  if normalized:
+    df = (df - df.mean()) / (df.max() - df.min())
 
   plt.figure()
 
@@ -37,6 +40,9 @@ def graph(filename='', x_axis_data='', y_axis_data='', title='', xlabel='', ylab
   if save_fig:
     ( reg.get_figure() ).savefig('../media/{}_vs_{}.png'.format(xlabel, ylabel))
 
+  # Calculates r_squared of the values
+  print('R_squared for {} and {}: {}'.format(x_axis_data, y_axis_data, calc_rsquared(filename=filename,xlabel=x_axis_data, ylabel=y_axis_data)))
+
 def calc_rsquared(filename='', xlabel='', ylabel=''):
   data = pd.read_csv(filename, index_col=0)
   slope, intercept, r_value, p_value, std_err = scipy.stats.linregress(data[xlabel], data[ylabel])
@@ -44,28 +50,28 @@ def calc_rsquared(filename='', xlabel='', ylabel=''):
 
 
 if __name__ == '__main__':
-  print('R_squared for Snowfall and Discharge: {}'.format(calc_rsquared(filename='runoff_precip_data1.csv',xlabel='Snowfall', ylabel='Discharge')))
-  graph(filename='runoff_precip_data1.csv', 
-          x_axis_data='Snowfall', 
-          xlabel='Snowfall (inches)', 
-          y_axis_data='Discharge', 
-          ylabel='River Discharge (cubic feet)',
-          title='Relationship Between Snowfall and River Discharge\nin the Crested Butte Basin',
-          save_fig=True)
-
-  print('R_squared for Precipitation and Discharge: {}'.format(calc_rsquared(filename='runoff_precip_data1.csv',xlabel='Precip', ylabel='Discharge')))
-  graph(filename='runoff_precip_data1.csv', 
+  graph(filename='rsp1911-1957.csv',
           x_axis_data='Precip', 
           xlabel='Precipitation (inches)', 
           y_axis_data='Discharge', 
           ylabel='River Discharge (cubic feet)',
-          title='Relationship Between Precipitation and River Discharge\nin the Crested Butte Basin',
+          title='Relationship Between Precip and River Discharge\nin the Crested Butte Basin from 1911 until 1946',
+          normalized=True,
           save_fig=True)
-  print('R_squared for Precipitation + Snowfall and Discharge: {}'.format(calc_rsquared(filename='runoff_precip_data1.csv',xlabel='Precip/Snowfall', ylabel='Discharge')))
-  graph(filename='runoff_precip_data1.csv', 
-          x_axis_data='Precip/Snowfall', 
-          xlabel='Precipitation and Snowfall (inches)', 
+
+  graph(filename='rsp1958-1988.csv',
+          x_axis_data='Precip', 
+          xlabel='Precipitation (inches)', 
           y_axis_data='Discharge', 
           ylabel='River Discharge (cubic feet)',
-          title='Relationship Between Precipitation and River Discharge\nin the Crested Butte Basin',
+          title='Relationship Between Precip and River Discharge\nin the Crested Butte Basin from 1947 until 1982',
+          normalized=True,
+          save_fig=True)
+  graph(filename='rsp1989-2018.csv',
+          x_axis_data='Precip', 
+          xlabel='Preciptation (inches)', 
+          y_axis_data='Discharge', 
+          ylabel='River Discharge (cubic feet)',
+          title='Relationship Between Precip and River Discharge\nin the Crested Butte Basin from 1983 until 2018',
+          normalized=True,
           save_fig=True)
