@@ -13,9 +13,6 @@ def getmultiplier(month=0, year=0):
   returns: int indicating the number of seconds in the given month
   """
   
-  # Seconds per day
-  spd = 86400
-
   days = 0
   
   # If the month is Jan, March, May, July, August, October, or December, it has 31 days
@@ -32,8 +29,8 @@ def getmultiplier(month=0, year=0):
     else:
       days = 28
 
-  # Find total number of seconds in the month and return
-  return spd*days
+  # Return total number of days
+  return days
   
 
 # Class implementation for water years used in other (of my) code
@@ -58,13 +55,8 @@ class WaterYear:
 
   def __str__(self, verbose=False): # This line doesn't even make sense because you can't pass in verbose
     ret = str(self._year)
-    if verbose:
-      ret += '\n'
-      for month in self._months:
-        ret += '  ' + str(month) + '\n'
-    else:
-      ret += ','
-      ret += str(self.sumRunOff()) + '\n'
+    ret += ','
+    ret += str(self.sumRunOff() / 356.25) + '\n'
     return ret
 
   def getYear(self):

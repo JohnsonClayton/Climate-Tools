@@ -26,7 +26,7 @@ def graph(filename='', x_axis_data='', y_axis_data='', title='', xlabel='', ylab
   plt.figure()
 
   # Create a linear regression plot with the given x and y data. Add bands indicating 95% confidence interval (ci)
-  reg = sns.regplot(x=df[x_axis_data], y=df[y_axis_data]/12.0, ci=95)
+  reg = sns.regplot(x=df[x_axis_data], y=df[y_axis_data]/12.0, ci=None)
 
   # Set the title of the graph
   plt.title(title)
@@ -50,28 +50,20 @@ def calc_rsquared(filename='', xlabel='', ylabel=''):
 
 
 if __name__ == '__main__':
-  graph(filename='rsp1911-1957.csv',
+  graph(filename='final_data.csv',
           x_axis_data='Precip', 
           xlabel='Precipitation (inches)', 
           y_axis_data='Discharge', 
-          ylabel='River Discharge (cubic feet)',
-          title='Relationship Between Precip and River Discharge\nin the Crested Butte Basin from 1911 until 1946',
-          normalized=True,
+          ylabel='River Discharge (CFS)',
+          title='Relationship Between Precipitation and River Discharge\nin the Crested Butte Basin from 1911 until 2018',
+          normalized=False,
           save_fig=True)
 
-  graph(filename='rsp1958-1988.csv',
-          x_axis_data='Precip', 
-          xlabel='Precipitation (inches)', 
+  graph(filename='final_data.csv',
+          x_axis_data='Snowfall', 
+          xlabel='Snowfall (inches)', 
           y_axis_data='Discharge', 
-          ylabel='River Discharge (cubic feet)',
-          title='Relationship Between Precip and River Discharge\nin the Crested Butte Basin from 1947 until 1982',
-          normalized=True,
-          save_fig=True)
-  graph(filename='rsp1989-2018.csv',
-          x_axis_data='Precip', 
-          xlabel='Preciptation (inches)', 
-          y_axis_data='Discharge', 
-          ylabel='River Discharge (cubic feet)',
-          title='Relationship Between Precip and River Discharge\nin the Crested Butte Basin from 1983 until 2018',
-          normalized=True,
+          ylabel='River Discharge (CFS)',
+          title='Relationship Between Snowfall and River Discharge\nin the Crested Butte Basin from 1911 until 2018',
+          normalized=False,
           save_fig=True)
